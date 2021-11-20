@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang='en'>
+    <head>
+        <meta charset='UTF-8'>
+        <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+        <link rel='stylesheet' href='/css/style.css'>
+        <link rel='stylesheet' href='/css/bootstrap.min.css'>
+        <title>Scraim Effort Estimation Module API Documentation</title>
+    </head>
+    <body>
+        <h1 id='title'>Scraim Effort Estimation Module API Documentation</h1>
+        
+        <div class='container'>
+            <div class='row'>
+                <div class='col-md-12'>
+                    <div class='card card-body endpoint' id='newTask' role='alert'>
+                        <p><strong>Endpoint:</strong> New Task</p>
+                        <p><strong>HTTP Method:</strong> POST</p>
+                        <p><strong>Path:</strong> /new-task</p>
+                        <p><strong>Description:</strong> Predict the estimated time or effort of news tasks.</p>
+                        <p><strong>Request Body (example):</strong>
+                            <pre>{
+                                "N of Part" : [2, 2],
+                                "Project": ["My Test Project", "My Test Project"],
+                                "Subject": ["initial training", "initial evaluation"],
+                                "Private": ["Yes", "Yes"],
+                                "Tracker" : ["Task", "Task"],
+                                "Priority" : ["Trivial", "Trivial"],
+                                "Target" : "Effort",
+                                "Model" : "random_forest"
+                      }
+                 </pre>
+                        </p>
+                        <p><strong>Response (example):</strong>
+                            <pre>{
+                                "Effort": [
+                                    9.224743819161395,
+                                    16.755531020167666
+                                ]
+                            }</pre>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

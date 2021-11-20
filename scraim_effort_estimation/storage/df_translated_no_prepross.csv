@@ -1,0 +1,1140 @@
+Project,Tracker,Priority,Estimated time,Private,Effort,Subject_clean,N of Part
+100.1 Oramix - RGPD,Task,Trivial,4.0,No,4.0,monitoring meeting 1,1
+100.1 Oramix - RGPD,Task,Trivial,4.0,No,4.0,workshop 6 information security,1
+100.1 Oramix - RGPD,Task,Trivial,4.0,No,4.0,workshop 4 data violation and order management,1
+100.1 Oramix - RGPD,Task,Trivial,4.0,No,8.0,workshop 2 risk treatment process,2
+100.1 Oramix - RGPD,Task,Trivial,4.0,No,8.0,workshop 1 data treatment process,2
+100.1 Oramix - RGPD,Task,Trivial,12.0,No,24.0,initial evaluation,2
+100.1 Oramix - RGPD,Task,Trivial,2.0,No,4.0,workshop plan,2
+100.1 Oramix - RGPD,Task,Trivial,3.5,No,7.0,initial training,2
+100.1 Oramix - RGPD,Task,Trivial,4.0,No,12.0,kickoff meeting,3
+100.1 Oramix - RGPD,Task,Trivial,3.0,No,6.0,project configuration,2
+104.1 Ordem dos Farmacêuticos - RGPD,Task,Trivial,3.5,Yes,3.5,workshop 6 information security,1
+104.1 Ordem dos Farmacêuticos - RGPD,Task,Trivial,3.5,Yes,7.0,workshop 5 support process,2
+104.1 Ordem dos Farmacêuticos - RGPD,Task,Trivial,3.5,Yes,3.5,workshop 4 data violation and order management,1
+104.1 Ordem dos Farmacêuticos - RGPD,Task,Trivial,3.5,Yes,3.5,workshop 3 privacy policy and consent process,1
+104.1 Ordem dos Farmacêuticos - RGPD,Task,Trivial,3.0,Yes,6.0,workshop 2 risk treatment process,2
+104.1 Ordem dos Farmacêuticos - RGPD,Task,Trivial,4.0,Yes,4.0,initial training,1
+104.1 Ordem dos Farmacêuticos - RGPD,Task,Trivial,3.5,No,7.0,workshop 1 data treatment process,2
+104.1 Ordem dos Farmacêuticos - RGPD,Task,Trivial,2.0,No,2.0,workshop plan,1
+104.1 Ordem dos Farmacêuticos - RGPD,Task,Trivial,8.0,No,16.0,initial evaluation,2
+104.1 Ordem dos Farmacêuticos - RGPD,Task,Trivial,2.0,No,2.0,project configuration,1
+104.1 Ordem dos Farmacêuticos - RGPD,Task,Trivial,1.5,No,3.0,kickoff meeting,2
+105.1 GADSA - ISO 27001,Task,Trivial,4.0,Yes,4.0,preparation workshop,1
+105.1 GADSA - ISO 27001,Task,Trivial,28.0,Yes,28.0,preparation workshop,1
+105.1 GADSA - ISO 27001,Task,Trivial,14.0,Yes,14.0,preparation workshop,1
+105.1 GADSA - ISO 27001,Task,Trivial,4.0,Yes,4.0,followup 5 politics of it,1
+105.1 GADSA - ISO 27001,Task,Trivial,4.0,Yes,8.0,accompaniment 3 quality manual information security information safety objective,2
+105.1 GADSA - ISO 27001,Task,Trivial,4.0,Yes,8.0,accompaniment 2 inventory of asset and risk excel,2
+105.1 GADSA - ISO 27001,Task,Trivial,4.0,Yes,4.0,accompaniment 1 it,1
+105.1 GADSA - ISO 27001,Task,Trivial,2.0,No,2.0,workshop 7 capacity and availability management business continuity,1
+105.1 GADSA - ISO 27001,Task,Trivial,3.0,No,3.0,workshop 6 purchase and legal,1
+105.1 GADSA - ISO 27001,Task,Trivial,3.0,No,6.0,workshop 5 information security in hr marketing,2
+105.1 GADSA - ISO 27001,Task,Trivial,2.0,No,4.0,workshop 4 vulnerability problem and incident management,2
+105.1 GADSA - ISO 27001,Task,Trivial,8.0,No,8.0,workshop 3 physical and logical control,1
+105.1 GADSA - ISO 27001,Task,Trivial,4.0,No,8.0,workshop 2 information security management system integrated system management,2
+105.1 GADSA - ISO 27001,Task,Trivial,4.0,No,8.0,workshop 1 information security risk analysis and treatment,2
+105.1 GADSA - ISO 27001,Task,Trivial,3.0,No,6.0,gap analysis initial presentation of result,2
+105.1 GADSA - ISO 27001,Task,Trivial,2.0,No,4.0,gap analysis initial pre presentation result,2
+105.1 GADSA - ISO 27001,Task,Trivial,4.0,No,12.0,initial gap analysis report,3
+105.1 GADSA - ISO 27001,Task,Trivial,16.0,No,48.0,gap analysis inicial,3
+105.1 GADSA - ISO 27001,Task,Trivial,1.0,No,4.0,project kickoff,4
+105.1 GADSA - ISO 27001,Task,Trivial,1.0,No,4.0,kickoff,4
+106.1 Effizency - ISO 27001,Task,Trivial,1.0,No,2.0,kickoff,2
+106.1 Effizency - ISO 27001,Task,Trivial,2.0,No,6.0,gap analysis initial presentation of result,3
+106.1 Effizency - ISO 27001,Task,Trivial,0.0,No,0.0,gap analysis initial pre presentation result,1
+106.1 Effizency - ISO 27001,Task,Trivial,4.0,No,12.0,initial gap analysis report,3
+106.1 Effizency - ISO 27001,Task,Trivial,12.0,No,36.0,gap analysis inicial,3
+106.1 Effizency - ISO 27001,Task,Trivial,1.0,No,3.0,project kickoff,3
+106.1 Effizency - ISO 27001,Task,Trivial,8.0,Yes,8.0,preparation workshop,1
+106.1 Effizency - ISO 27001,Task,Trivial,8.0,Yes,8.0,preparation workshop,1
+106.1 Effizency - ISO 27001,Task,Trivial,2.0,No,4.0,workshop 8 capacity and availability management business continuity,2
+106.1 Effizency - ISO 27001,Task,Critical,2.0,No,2.0,workshop 7 product development,1
+106.1 Effizency - ISO 27001,Task,Trivial,2.0,No,4.0,workshop 6 purchase and legal,2
+106.1 Effizency - ISO 27001,Task,Trivial,3.0,No,3.0,workshop 5 information security in hr marketing,1
+106.1 Effizency - ISO 27001,Task,Trivial,2.0,No,4.0,workshop 4 vulnerability problem and incident management,2
+106.1 Effizency - ISO 27001,Task,Trivial,2.5,No,2.5,workshop 3 physical and logical control,1
+106.1 Effizency - ISO 27001,Task,Trivial,2.5,No,2.5,workshop 2 information security management system integrated system management,1
+106.1 Effizency - ISO 27001,Task,Trivial,2.5,No,5.0,workshop 1 information security risk analysis and treatment,2
+106.2 Effizency - RGPD,Task,Trivial,2.0,Yes,2.0,workshop plan,1
+106.2 Effizency - RGPD,Task,Trivial,1.5,Yes,3.0,initial evaluation result report presentation,2
+106.2 Effizency - RGPD,Task,Trivial,3.0,Yes,6.0,initial evaluation,2
+106.2 Effizency - RGPD,Task,Trivial,2.0,Yes,2.0,accompaniment 3,1
+106.2 Effizency - RGPD,Task,Trivial,2.0,Yes,2.0,followup 2,1
+106.2 Effizency - RGPD,Task,Trivial,2.0,Yes,2.0,followup 1,1
+106.2 Effizency - RGPD,Task,Trivial,2.0,Yes,2.0,workshop 3 data violation and order management,1
+106.2 Effizency - RGPD,Task,Trivial,1.5,Yes,1.5,workshop 2 privacy policy and consent process,1
+106.2 Effizency - RGPD,Task,Trivial,3.5,Yes,3.5,workshop 1 data treatment risk and sink,1
+106.2 Effizency - RGPD,Task,Trivial,3.5,Yes,7.0,initial training,2
+105.1 GADSA - RGPD,Task,Trivial,1.0,Yes,1.0,initial evaluation result report presentation,1
+105.1 GADSA - RGPD,Task,Trivial,7.0,No,14.0,initial evaluation,2
+105.1 GADSA - RGPD,Task,Trivial,2.0,No,2.0,workshop plan,1
+105.1 GADSA - RGPD,Task,Trivial,3.5,No,3.5,initial training,1
+105.1 GADSA - RGPD,Task,Trivial,1.0,No,2.0,kickoff meeting,2
+105.1 GADSA - RGPD,Task,Trivial,1.0,No,2.0,prekickoff meeting,2
+105.1 GADSA - RGPD,Task,Trivial,2.0,No,2.0,monitoring meeting 3,1
+105.1 GADSA - RGPD,Task,Trivial,1.5,No,1.5,monitoring meeting 2,1
+105.1 GADSA - RGPD,Task,Trivial,6.0,No,6.0,monitoring meeting 1,1
+105.1 GADSA - RGPD,Task,Trivial,1.5,No,1.5,workshop 4 data violation and order management,1
+105.1 GADSA - RGPD,Task,Trivial,3.0,No,3.0,workshop 3 privacy policy and consent process,1
+105.1 GADSA - RGPD,Task,Trivial,1.5,No,1.5,workshop 2 risk treatment process,1
+105.1 GADSA - RGPD,Task,Trivial,4.0,No,4.0,workshop 1 data treatment process,1
+107.1 Cycloid - ISO 20000,Task,Trivial,4.0,Yes,4.0,accompaniment 8 quality,1
+107.1 Cycloid - ISO 20000,Task,Trivial,2.0,Yes,2.0,accompaniment 7 service management,1
+107.1 Cycloid - ISO 20000,Task,Trivial,4.0,Yes,4.0,monitoring 6 organizational context swot analysis integrated policy interested party and system objective,1
+107.1 Cycloid - ISO 20000,Task,Trivial,4.0,Yes,4.0,followup 5 ticket tool request changesreclamations incident incident problem and incident,1
+107.1 Cycloid - ISO 20000,Task,Trivial,4.0,Yes,4.0,accompaniment 4 service management metric report kickoff,1
+107.1 Cycloid - ISO 20000,Task,Trivial,4.0,Yes,4.0,followup 1 service strategy service catalog process strategic management process service development process,1
+107.1 Cycloid - ISO 20000,Task,Trivial,4.0,Yes,8.0,workshop 10 labor legislation in conciliation otica,2
+107.1 Cycloid - ISO 20000,Task,Trivial,4.0,Yes,4.0,workshop 9 performance and improvement assessment,1
+107.1 Cycloid - ISO 20000,Task,Trivial,4.0,Yes,8.0,accompaniment 3 service management service management process service plan customer satisfaction question,2
+107.1 Cycloid - ISO 20000,Task,Trivial,4.0,Yes,8.0,accompaniment 2 establishment and service delivery process planning service transition service delivery management,2
+107.1 Cycloid - ISO 20000,Task,Trivial,4.0,No,4.0,workshop 8 planning and operationalization,1
+107.1 Cycloid - ISO 20000,Task,Trivial,4.0,No,8.0,workshop 7 support,2
+107.1 Cycloid - ISO 20000,Task,Trivial,4.0,No,12.0,workshop 6 context of the organization and leadership,3
+107.1 Cycloid - ISO 20000,Task,Trivial,4.0,No,8.0,workshop 5 capacity continuity and availability,2
+107.1 Cycloid - ISO 20000,Task,Trivial,4.0,No,8.0,workshop 4 incident management request and service change,2
+107.1 Cycloid - ISO 20000,Task,Trivial,4.0,No,4.0,workshop 3 service management,1
+107.1 Cycloid - ISO 20000,Task,Trivial,4.0,No,8.0,workshop 2 establishment and service delivery,2
+107.1 Cycloid - ISO 20000,Task,Trivial,4.0,No,8.0,workshop 1 strategy,2
+107.1 Cycloid - ISO 20000,Task,Trivial,2.0,No,6.0,initial audit presentation of result,3
+107.1 Cycloid - ISO 20000,Task,Trivial,2.0,No,6.0,initial audit pre presentation result,3
+107.1 Cycloid - ISO 20000,Task,Trivial,4.0,No,20.0,initial audit report,5
+107.1 Cycloid - ISO 20000,Task,Trivial,16.0,No,80.0,initial audit,5
+107.1 Cycloid - ISO 20000,Task,Trivial,1.0,No,5.0,project kickoff,5
+107.1 Cycloid - ISO 20000,Task,Trivial,1.0,No,4.0,kickoff,4
+109.1 Freebalance - CMMI Development,Task,Trivial,8.0,No,24.0,gap analysis report presentation,3
+109.1 Freebalance - CMMI Development,Task,Trivial,8.0,No,16.0,gap analysis report preparation,2
+109.1 Freebalance - CMMI Development,Task,Trivial,16.0,No,48.0,initial gap analysis,3
+109.1 Freebalance - CMMI Development,Task,Trivial,2.0,Yes,6.0,prekickoff meeting,3
+109.1 Freebalance - CMMI Development,Task,Trivial,2.0,No,6.0,kickoff meeting,3
+109.1 Freebalance - CMMI Development,Task,Trivial,0.5,No,0.5,project configuration cost center creation,1
+109.1 Freebalance - CMMI Development,Task,Trivial,0.5,No,0.5,project configuration dropbox project folder creation,1
+109.1 Freebalance - CMMI Development,Task,Trivial,0.5,No,0.5,project configuration project creation,1
+109.1 Freebalance - CMMI Development,Task,Trivial,0.5,No,0.5,project configuration project instance creation,1
+109.1 Freebalance - CMMI Development,Task,Trivial,0.5,No,0.5,project dissemination,1
+109.1 Freebalance - CMMI Development,Task,Trivial,1.0,No,1.0,project planning,1
+109.1 Freebalance - CMMI Development,Task,Trivial,0.0,No,0.0,project configuration,1
+109.1 Freebalance - CMMI Development,Task,Trivial,2.0,No,2.0,team definition,1
+109.1 Freebalance - CMMI Services ,Task,Trivial,3.0,No,9.0,cmmi training,3
+109.1 Freebalance - CMMI Services ,Task,Trivial,16.0,No,48.0,initial gap analysis,3
+109.1 Freebalance - CMMI Services ,Task,Trivial,8.0,No,24.0,gap analysis report presentation,3
+109.1 Freebalance - CMMI Services ,Task,Trivial,16.0,No,32.0,gap analysis report preparation,2
+109.1 Freebalance - CMMI Services ,Task,Trivial,1.0,No,1.0,project dissemination,1
+109.1 Freebalance - CMMI Services ,Task,Trivial,2.0,No,2.0,project plan,1
+109.1 Freebalance - CMMI Services ,Task,Trivial,1.0,No,1.0,financial adjudication,1
+109.1 Freebalance - CMMI Services ,Task,Trivial,2.0,No,6.0,kickoff meeting,3
+109.1 Freebalance - CMMI Services ,Task,Trivial,0.5,No,0.5,project configuration cost center creation,1
+109.1 Freebalance - CMMI Services ,Task,Trivial,2.0,No,6.0,prekickoff meeting,3
+109.1 Freebalance - CMMI Services ,Task,Trivial,1.0,No,1.0,project configuration dropbox project folder creation,1
+109.1 Freebalance - CMMI Services ,Task,Trivial,1.0,No,1.0,project configuration project creation,1
+109.1 Freebalance - CMMI Services ,Task,Trivial,1.0,No,1.0,project configuration project instance creation,1
+109.1 Freebalance - CMMI Services ,Task,Trivial,2.0,No,2.0,project planning,1
+109.1 Freebalance - CMMI Services ,Task,Trivial,2.0,No,2.0,team definition,1
+113.1 Valuedate - ISO 27001,Task,Trivial,0.5,Yes,1.0,gap analysis alignment,2
+113.1 Valuedate - ISO 27001,Task,Trivial,3.0,Yes,3.0,gap analysis preparation,1
+113.1 Valuedate - ISO 27001,Task,Trivial,2.0,Yes,2.0,prepickoff preparation initial task,1
+113.1 Valuedate - ISO 27001,Task,Trivial,9.0,Yes,9.0,introductory,1
+113.1 Valuedate - ISO 27001,Task,Trivial,7.0,No,14.0,workshop 3 physical and logical control,2
+113.1 Valuedate - ISO 27001,Task,Trivial,6.0,No,6.0,workshop 2 information security management system integrated system management,1
+113.1 Valuedate - ISO 27001,Task,Trivial,3.25,No,6.5,workshop 1 information security risk analysis and treatment,2
+113.1 Valuedate - ISO 27001,Task,Trivial,3.5,No,3.5,initial gap analysis report,1
+113.1 Valuedate - ISO 27001,Task,Trivial,12.0,No,36.0,gap analysis inicial,3
+113.1 Valuedate - ISO 27001,Task,Trivial,2.0,No,6.0,project kickoff,3
+113.1 Valuedate - ISO 27001,Task,Trivial,1.0,No,2.0,kickoff,2
+40.5 Innowave - ISO 27001,Task,Trivial,2.0,No,2.0,internal kickoff,1
+40.5 Innowave - ISO 27001,Task,Trivial,1.0,No,1.0,project planning,1
+40.5 Innowave - ISO 27001,Task,Trivial,2.0,No,2.0,project kickoff,1
+40.5 Innowave - ISO 27001,Task,Trivial,1.0,No,1.0,kickoff,1
+40.5 Innowave - ISO 27001,Task,Trivial,2.0,Yes,2.0,monitoring meeting 1,1
+40.5 Innowave - ISO 27001,Task,Trivial,4.0,Yes,4.0,preparation external audit phase 1,1
+40.5 Innowave - ISO 27001,Task,Trivial,2.0,Yes,2.0,action plan,1
+40.5 Innowave - ISO 27001,Task,Trivial,8.0,Yes,8.0,external audit phase 1,1
+40.5 Innowave - ISO 27001,Task,Trivial,0.0,Yes,0.0,preparation external audit phase 2,1
+40.5 Innowave - ISO 27001,Task,Trivial,0.0,Yes,0.0,external audit phase 2,1
+40.5 Innowave - ISO 27001,Task,Trivial,0.0,No,0.0,stock plan,1
+40.5 Innowave - ISO 27001,Task,Trivial,2.0,No,2.0,final evaluation report,1
+40.5 Innowave - ISO 27001,Task,Trivial,0.0,No,0.0,final evaluation pre presentation of result,1
+40.5 Innowave - ISO 27001,Task,Trivial,16.0,No,16.0,final evaluation,1
+40.5 Innowave - ISO 27001,Task,Trivial,2.0,No,2.0,final evaluation presentation of result,1
+40.5 Innowave - ISO 27001,Task,Trivial,2.0,No,2.0,preparation of the initial evaluation,1
+40.5 Innowave - ISO 27001,Task,Trivial,2.0,No,2.0,initial evaluation presentation of result,1
+40.5 Innowave - ISO 27001,Task,Trivial,0.0,No,0.0,initial evaluation pre presentation result,1
+40.5 Innowave - ISO 27001,Task,Trivial,4.0,No,4.0,report initial evaluation,1
+40.5 Innowave - ISO 27001,Task,Trivial,16.0,No,16.0,initial evaluation,1
+40.5 Innowave - ISO 27001,Task,Trivial,0.0,No,0.0,intermediate assessment presentation of the result,1
+40.5 Innowave - ISO 27001,Task,Trivial,0.0,No,0.0,intermediate rating report,1
+40.5 Innowave - ISO 27001,Task,Trivial,0.0,No,0.0,intermediate evaluation,1
+40.5 Innowave - ISO 27001,Task,Trivial,0.0,No,0.0,interimation pre presentation of result,1
+40.5 Innowave - ISO 27001,Task,Trivial,2.0,No,2.0,internal design closure,1
+40.5 Innowave - ISO 27001,Task,Trivial,2.0,No,2.0,project zip,1
+40.5 Innowave - ISO 27001,Task,Trivial,4.0,No,4.0,workshop 8 capacity management availability and continuity of business,1
+40.5 Innowave - ISO 27001,Task,Trivial,0.0,No,0.0,workshop 7 product development,1
+40.5 Innowave - ISO 27001,Task,Trivial,0.0,No,0.0,workshop 6 shopping and legal,1
+40.5 Innowave - ISO 27001,Task,Trivial,4.0,No,4.0,workshop 5 information security in hr and marketing,1
+40.5 Innowave - ISO 27001,Task,Trivial,4.0,No,4.0,workshop 4 troubleshootingvulnerabilities and incident,1
+40.5 Innowave - ISO 27001,Task,Trivial,0.0,No,0.0,workshop 3 physical and logical control,1
+40.5 Innowave - ISO 27001,Task,Trivial,0.0,No,0.0,workshop 2 information security management system and integrated management system,1
+40.5 Innowave - ISO 27001,Task,Trivial,4.0,No,4.0,workshop 1 risk management,1
+40.5 Innowave - RGPD,Task,Trivial,1.0,No,1.0,workshop plan,1
+40.5 Innowave - RGPD,Task,Trivial,2.0,No,2.0,initial training,1
+40.5 Innowave - RGPD,Task,Trivial,2.0,No,2.0,kickoff meeting,1
+40.5 Innowave - RGPD,Task,Trivial,2.0,No,2.0,kick off presentation,1
+40.5 Innowave - RGPD,Task,Trivial,1.0,No,1.0,project configuration,1
+40.5 Innowave - RGPD,Task,Trivial,2.0,Yes,2.0,steering 5 meeting,1
+40.5 Innowave - RGPD,Task,Trivial,2.0,Yes,2.0,steering 4 meeting,1
+40.5 Innowave - RGPD,Task,Trivial,2.0,Yes,2.0,steering 3 meeting,1
+40.5 Innowave - RGPD,Task,Trivial,2.0,Yes,2.0,steering 2 meeting,1
+40.5 Innowave - RGPD,Task,Trivial,2.0,Yes,2.0,steering 1 meeting,1
+40.5 Innowave - RGPD,Task,Trivial,2.0,No,2.0,monitoring meeting 1,1
+40.5 Innowave - RGPD,Task,Trivial,8.0,No,8.0,final evaluation plan,1
+40.5 Innowave - RGPD,Task,Trivial,0.0,No,0.0,management review,1
+40.5 Innowave - RGPD,Task,Trivial,0.0,No,0.0,workshop 6 information security,1
+40.5 Innowave - RGPD,Meeting,Trivial,0.0,No,0.0,workshop 5 process financial rh communication,1
+40.5 Innowave - RGPD,Task,Trivial,2.0,No,2.0,workshop 4 data violation and order management,1
+40.5 Innowave - RGPD,Task,Trivial,4.0,No,4.0,workshop 3 privacy policy and consent process,1
+40.5 Innowave - RGPD,Task,Trivial,4.0,No,4.0,workshop 2 risk treatment process,1
+40.5 Innowave - RGPD,Task,Trivial,4.0,No,4.0,workshop 1 data treatment process,1
+40.5 Innowave - RGPD,Task,Trivial,8.0,No,8.0,initial evaluation,1
+40.5 Innowave - RGPD,Task,Trivial,0.0,No,0.0,project and process monitoring,1
+40.5 Innowave - RGPD,Task,Trivial,0.0,No,0.0,process training,1
+40.5 Innowave - RGPD,Task,Trivial,2.0,No,2.0,internal closure,1
+40.5 Innowave - RGPD,Task,Trivial,2.0,No,2.0,external closure,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,2.0,No,2.0,final gap analysis report presentation,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,4.0,No,4.0,final gap analysis report preparation,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,16.0,No,16.0,final gap analysis,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,5.0,No,5.0,final gap analysis plan and preparation,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,2.0,Yes,2.0,monitoring meeting 3,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,2.0,Yes,2.0,monitoring meeting 2,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,2.0,Yes,2.0,monitoring meeting 1,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,0.0,No,0.0,process monitoring,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,0.0,No,0.0,project monitoring,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,16.0,No,16.0,initial gap analysis,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,2.0,No,2.0,gap analysis report presentation,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,8.0,No,8.0,gap analysis report preparation,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,10.0,No,10.0,analyze gap,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,0.0,No,0.0,intermediate gap analysis report preparation,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,0.0,No,0.0,intermediate gap analysis presentation,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,0.0,No,0.0,fix intermediate gap analysis issue,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,0.0,No,0.0,intermediate gap analysis,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,0.0,No,0.0,intermediate gap analysis plan and preparation,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,1.0,No,1.0,kickoff meeting,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,0.5,No,0.5,project configuration cost center creation,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,0.0,No,0.0,prekickoff meeting,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,0.5,No,0.5,project configuration dropbox project folder creation,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,0.5,No,0.5,project configuration project creation,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,0.5,No,0.5,project configuration project instance creation,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,1.0,No,1.0,project planning,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,0.0,No,0.0,project configuration,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,0.5,No,0.5,team definition,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,1.0,No,1.0,press release,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,2.0,No,2.0,project closure video,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,2.0,No,2.0,project closure,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,2.0,No,2.0,internal closure,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,4.0,No,4.0,readiness review meeting,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,16.0,No,16.0,evidence mapping,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,2.0,Yes,2.0,monitoring meeting 7,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,2.0,Yes,2.0,monitoring meeting 6,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,2.0,Yes,2.0,followup meeting 5,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,2.0,Yes,2.0,monitoring meeting 4,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,0.0,No,0.0,process training,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,0.0,No,0.0,steering meeting,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,0.0,No,0.0,workshop project management,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,0.0,No,0.0,workshop requirement,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,0.0,No,0.0,workshop estimating,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,0.0,No,0.0,workshop quality,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,4.0,No,4.0,workshop organization structure,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,6.0,No,6.0,workshop cmmi devops,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,4.0,No,4.0,cmmi training,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,0.0,No,0.0,steering meeting,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,0.0,No,0.0,pilot monitoring,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,0.0,No,0.0,pilot training,1
+40.6 InnoWave - CMMI Development 3 Renovação,Task,Trivial,22.0,No,22.0,workshop plan and preparation,1
+47.3 Xpand IT - ISO 27001,Task,Trivial,1.0,Yes,3.0,kickoff,3
+47.3 Xpand IT - ISO 27001,Task,Trivial,1.0,Yes,4.0,kickoff,4
+47.3 Xpand IT - ISO 27001,Task,Trivial,2.0,Yes,8.0,final report presentation,4
+47.3 Xpand IT - ISO 27001,Task,Trivial,2.0,Yes,4.0,preliminary presentation of the report,2
+47.3 Xpand IT - ISO 27001,Task,Trivial,12.0,Yes,36.0,initial gap analysis,3
+47.3 Xpand IT - ISO 27001,Task,Trivial,3.0,No,3.0,workshop 8 capacity and availability management business continuity,1
+47.3 Xpand IT - ISO 27001,Task,Trivial,2.0,No,4.0,workshop 7 product development,2
+47.3 Xpand IT - ISO 27001,Task,Trivial,3.0,No,3.0,workshop 6 purchase and legal,1
+47.3 Xpand IT - ISO 27001,Task,Trivial,3.0,No,3.0,workshop 5 information security in hr marketing,1
+47.3 Xpand IT - ISO 27001,Task,Trivial,2.0,No,4.0,workshop 4 vulnerability problem and incident management,2
+47.3 Xpand IT - ISO 27001,Task,Trivial,5.0,No,5.0,workshop 3 physical and logical control,1
+47.3 Xpand IT - ISO 27001,Task,Trivial,3.0,No,3.0,workshop 2 information security management system integrated system management,1
+47.3 Xpand IT - ISO 27001,Task,Trivial,3.0,No,6.0,workshop 1 information security risk analysis and treatment,2
+47.3 Xpand IT - ISO 27001,Task,Trivial,0.5,Yes,0.5,xpand it iso 27001,1
+47.3 Xpand IT - ISO 27001,Task,Trivial,0.5,Yes,0.5,xpand it iso 27001,1
+47.3 Xpand IT - ISO 27001,Task,Trivial,3.0,Yes,3.0,xpand it preparation of accompaniment,1
+47.3 Xpand IT - ISO 27001,Task,Trivial,2.0,Yes,4.0,xpand it preparation of accompaniment,2
+47.3 Xpand IT - ISO 27001,Task,Trivial,3.0,Yes,3.0,accompaniment 4,1
+47.3 Xpand IT - ISO 27001,Task,Trivial,3.0,Yes,6.0,accompaniment 3,2
+47.3 Xpand IT - ISO 27001,Task,Trivial,3.0,Yes,3.0,followup 2,1
+47.3 Xpand IT - ISO 27001,Task,Trivial,2.0,Yes,2.0,followup 1,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,0.5,No,0.5,project configuration cost center creation,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,2.0,No,2.0,prekickoff meeting,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,0.5,No,0.5,project configuration dropbox project folder creation,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,0.5,No,0.5,project configuration project creation,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,0.5,No,0.5,project configuration project instance creation,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,2.0,No,2.0,project planning,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,0.0,No,0.0,project configuration,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,2.0,No,2.0,team definition,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,2.0,No,2.0,final gap analysis report presentation,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,4.0,No,4.0,final gap analysis report preparation,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,24.0,No,24.0,final gap analysis,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,8.0,No,8.0,final gap analysis plan and preparation,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,2.0,No,2.0,process monitoring,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,2.0,No,2.0,project monitoring,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,20.0,No,20.0,initial gap analysis,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,2.0,No,2.0,gap analysis report presentation,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,4.0,No,4.0,gap analysis report preparation,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,6.0,No,6.0,analyze gap,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,4.0,No,4.0,intermediate gap analysis report preparation,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,2.0,No,2.0,intermediate gap analysis presentation,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,16.0,No,16.0,intermediate gap analysis,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,2.0,No,2.0,intermediate gap analysis plan and preparation,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,1.0,No,1.0,project dissemination,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,1.0,No,1.0,project plan,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,1.0,No,1.0,financial adjudication,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,1.0,No,1.0,kickoff meeting,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,0.5,No,0.5,press release,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,2.0,No,2.0,project closure video,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,2.0,No,2.0,project closure,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,2.0,No,2.0,internal closure,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,4.0,No,4.0,readiness review meeting,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,16.0,No,16.0,evidence mapping,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,2.0,Yes,2.0,steering 4,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,2.0,Yes,2.0,steering 3,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,0.0,No,0.0,process training,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,2.0,Yes,2.0,steering 2,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,2.0,Yes,2.0,steering 1,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,4.0,No,4.0,workshop quality,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,16.0,No,16.0,workshop project management,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,4.0,No,4.0,workshop requirement,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,4.0,No,4.0,workshop organization structure,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,8.0,No,8.0,workshop estimating,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,16.0,No,16.0,workshop engineering,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,0.0,No,0.0,cmmi training,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,8.0,No,8.0,steering meeting,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,4.0,No,4.0,pilot monitoring,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,4.0,No,4.0,pilot training,1
+77.1 Deloitte - CMMI Development 3,Task,Trivial,2.0,No,2.0,workshop plan and preparation,1
+77.1 Deloitte - CMMI Services,Task,Trivial,0.0,No,0.0,project configuration project instance creation,1
+77.1 Deloitte - CMMI Services,Task,Trivial,0.0,No,0.0,project configuration,1
+77.1 Deloitte - CMMI Services,Task,Trivial,2.0,No,2.0,team definition,1
+77.1 Deloitte - CMMI Services,Task,Trivial,4.0,No,4.0,gap analysis report presentation,1
+77.1 Deloitte - CMMI Services,Task,Trivial,16.0,No,16.0,gap analysis report preparation,1
+77.1 Deloitte - CMMI Services,Task,Trivial,2.0,No,2.0,deloitte service followup,1
+77.1 Deloitte - CMMI Services,Task,Trivial,4.0,No,4.0,deloitte gap analysis cmmi srv 3 fill,1
+77.1 Deloitte - CMMI Services,Task,Trivial,4.0,No,4.0,deloitte service followup,1
+77.1 Deloitte - CMMI Services,Task,Trivial,4.0,No,4.0,workshop requirement,1
+77.1 Deloitte - CMMI Services,Task,Trivial,4.0,No,4.0,workshop engineering,1
+77.1 Deloitte - CMMI Services,Task,Trivial,4.0,No,4.0,workshop quality,1
+77.1 Deloitte - CMMI Services,Task,Trivial,4.0,No,4.0,workshop organization structure,1
+77.1 Deloitte - CMMI Services,Task,Trivial,4.0,No,4.0,workshop project management,1
+77.1 Deloitte - CMMI Services,Task,Trivial,4.0,No,4.0,workshop estimating,1
+77.1 Deloitte - CMMI Services,Task,Trivial,0.0,No,0.0,deloitte service intermediate rating,1
+77.1 Deloitte - CMMI Services,Task,Trivial,16.0,No,16.0,deloitte cmmi3 service intermediate rating,1
+77.1 Deloitte - CMMI Services,Task,Trivial,8.0,No,8.0,deloitte cmmi3 service intermediate rating,1
+77.1 Deloitte - CMMI Services,Task,Trivial,8.0,No,8.0,deloitte cmmi3 service intermediate rating,1
+77.1 Deloitte - CMMI Services,Task,Trivial,4.0,No,4.0,deloitte service intermediate rating,1
+77.1 Deloitte - CMMI Services,Task,Trivial,4.0,No,4.0,deloitte cmmi3 service followup preparation,1
+77.1 Deloitte - CMMI Services,Task,Trivial,4.0,No,4.0,deloitte cmmi3 service followup preparation,1
+77.1 Deloitte - CMMI Services,Task,Trivial,4.0,No,4.0,deloitte cmmi3 service intermediate rating presentation,1
+77.1 Deloitte - CMMI Services,Task,Trivial,4.0,No,4.0,deloitte cmmi3 service internal meeting,1
+77.1 Deloitte - CMMI Services,Task,Trivial,4.0,No,4.0,deloitte cmmi3 service report preparation,1
+77.1 Deloitte - CMMI Services,Task,Trivial,4.0,No,4.0,deloitte gap analysis cmmi srv 3,1
+77.1 Deloitte - CMMI Services,Task,Trivial,2.0,No,2.0,deloitte cmmi3 service correction report,1
+77.1 Deloitte - CMMI Services,Task,Trivial,2.0,No,2.0,deloitte service introduction to mapping readness review,1
+77.1 Deloitte - CMMI Services,Task,Trivial,4.0,No,4.0,deloitte development review report audit,1
+77.1 Deloitte - CMMI Services,Task,Trivial,4.0,No,4.0,deloitte cmmi 3 svc evidence review,1
+77.1 Deloitte - CMMI Services,Task,Trivial,0.0,No,0.0,deloitte cmmi3 service monitoring meeting,1
+77.1 Deloitte - CMMI Services,Task,Trivial,4.0,No,4.0,deloitte cmmi3 service monitoring meeting,1
+77.1 Deloitte - CMMI Services,Task,Trivial,4.0,No,4.0,deloitte cmmi3 service followup preparation,1
+77.1 Deloitte - CMMI Services,Task,Trivial,4.0,No,4.0,deloitte cmmi3 service monitoring meeting,1
+77.1 Deloitte - CMMI Services,Task,Trivial,8.0,No,8.0,deloitte service readiness review,1
+77.1 Deloitte - CMMI Services,Task,Trivial,2.0,No,2.0,deloitte cmmi3 service workshop mapeamento,1
+77.1 Deloitte - CMMI Services,Task,Trivial,16.0,No,16.0,deloitte cmmi3 service readiness review,1
+77.1 Deloitte - CMMI Services,Task,Trivial,3.0,No,3.0,deloitte service resultados readiness review,1
+77.1 Deloitte - CMMI Services,Task,Trivial,4.0,No,4.0,deloitte service readiness review,1
+77.1 Deloitte - CMMI Services,Task,Trivial,4.0,No,4.0,readiness review meeting,1
+77.1 Deloitte - CMMI Services,Task,Trivial,4.0,No,4.0,deloitte cmmi3 service monitoring meeting,1
+77.1 Deloitte - CMMI Services,Task,Trivial,4.0,No,4.0,deloitte service sepg service tracking,1
+77.1 Deloitte - CMMI Services,Task,Trivial,4.0,No,4.0,deloitte cmmi 3 svc preparation intermediate evaluation,1
+77.1 Deloitte - CMMI Services,Task,Trivial,4.0,No,4.0,deloitte cmmi3 svc preparation service continuity plan,1
+77.1 Deloitte - CMMI Services,Task,Trivial,4.0,No,4.0,deloitte cmmi3 service review of finding,1
+77.1 Deloitte - CMMI Services,Task,Trivial,2.0,No,2.0,deloitte service followup,1
+77.1 Deloitte - CMMI Services,Task,Trivial,2.0,No,2.0,deloitte acomamenta 46,1
+77.1 Deloitte - CMMI Services,Task,Trivial,2.0,No,2.0,deloitte cmmi service monitoring,1
+77.1 Deloitte - CMMI Services,Task,Trivial,32.0,Yes,32.0,scope,1
+77.1 Deloitte - CMMI Services,Task,Trivial,32.0,No,32.0,scope,1
+77.1 Deloitte - CMMI Services,Task,Trivial,2.0,Yes,2.0,deloitte cmmi3 service preparação lesson learned,1
+77.1 Deloitte - CMMI Services,Task,Trivial,2.0,No,6.0,project closure video,3
+77.1 Deloitte - CMMI Services,Task,Trivial,2.0,No,6.0,project closure,3
+77.1 Deloitte - CMMI Services,Task,Trivial,4.0,No,4.0,deloitte cmmi service sepg meeting,1
+77.1 Deloitte - CMMI Services,Task,Trivial,4.0,No,4.0,deloitte cmmi3 service monitoring meeting sepg,1
+77.1 Deloitte - CMMI Services,Task,Trivial,4.0,No,4.0,deloitte cmmi3 service monitoring meeting,1
+77.1 Deloitte - CMMI Services,Task,Trivial,4.0,No,4.0,deloitte cmmi3 service monitoring meeting,1
+77.1 Deloitte - CMMI Services,Task,Trivial,1.0,No,1.0,deloitte cmmi service,1
+77.1 Deloitte - CMMI Services,Task,Trivial,2.5,No,2.5,deloitte service 3 monitoring,1
+77.1 Deloitte - CMMI Services,Task,Trivial,4.0,No,4.0,deloitte cmmi3 service readiness review result presentation,1
+77.1 Deloitte - CMMI Services,Task,Trivial,8.0,No,8.0,deloitte cmmi3 service preparation of training scampi,1
+77.1 Deloitte - CMMI Services,Task,Trivial,8.0,No,8.0,deloitte cmmi3 service training scampi,1
+77.1 Deloitte - CMMI Services,Task,Trivial,8.0,No,8.0,deloitte cmmi service 3 scampi preparation,1
+77.1 Deloitte - CMMI Services,Task,Trivial,1.0,No,1.0,deloitte cmmi service 3 review daa presentation scampi preparation,1
+77.1 Deloitte - CMMI Services,Task,Trivial,8.0,No,8.0,deloitte cmmi service preparation scampi,1
+77.1 Deloitte - CMMI Services,Task,Trivial,8.0,No,8.0,deloitte cmmi service 3 watching training scampi,1
+79.1 DECO - RGPD,Task,Trivial,1.0,No,1.0,workshop plan,1
+79.1 DECO - RGPD,Task,Trivial,0.0,No,0.0,initial training,1
+79.1 DECO - RGPD,Task,Trivial,2.0,No,2.0,kickoff meeting,1
+79.1 DECO - RGPD,Task,Trivial,2.0,No,2.0,kick off presentation,1
+79.1 DECO - RGPD,Task,Trivial,1.0,No,1.0,project configuration,1
+79.1 DECO - RGPD,Task,Trivial,4.0,Yes,4.0,monitoring meeting 7,1
+79.1 DECO - RGPD,Task,Trivial,4.0,Yes,4.0,monitoring meeting 6,1
+79.1 DECO - RGPD,Task,Trivial,4.0,Yes,4.0,followup meeting 5,1
+79.1 DECO - RGPD,Task,Trivial,4.0,Yes,4.0,monitoring meeting 4,1
+79.1 DECO - RGPD,Task,Trivial,4.0,Yes,4.0,monitoring meeting 3,1
+79.1 DECO - RGPD,Task,Trivial,4.0,Yes,4.0,monitoring meeting 2,1
+79.1 DECO - RGPD,Task,Trivial,4.0,Yes,4.0,monitoring meeting 1,1
+79.1 DECO - RGPD,Task,Trivial,4.0,No,4.0,monitoring meeting 12,1
+79.1 DECO - RGPD,Task,Trivial,4.0,No,4.0,monitoring meeting 11,1
+79.1 DECO - RGPD,Task,Trivial,4.0,No,4.0,followup meeting 10,1
+79.1 DECO - RGPD,Task,Trivial,4.0,No,4.0,monitoring meeting 9,1
+79.1 DECO - RGPD,Task,Trivial,4.0,No,4.0,monitoring meeting 8,1
+79.1 DECO - RGPD,Task,Trivial,16.0,No,16.0,final evaluation plan,1
+79.1 DECO - RGPD,Task,Trivial,0.0,No,0.0,management review,1
+79.1 DECO - RGPD,Task,Trivial,0.0,No,0.0,workshop 6 information security,1
+79.1 DECO - RGPD,Task,Trivial,0.0,No,0.0,workshop 5 process financial rh communication,1
+79.1 DECO - RGPD,Task,Trivial,4.0,No,4.0,workshop 4 data violation and order management,1
+79.1 DECO - RGPD,Task,Trivial,4.0,No,4.0,workshop 3 privacy policy and consent process,1
+79.1 DECO - RGPD,Task,Trivial,4.0,No,4.0,workshop 2 risk treatment process,1
+79.1 DECO - RGPD,Task,Trivial,4.0,No,4.0,workshop 1 data treatment process,1
+79.1 DECO - RGPD,Task,Trivial,8.0,No,8.0,initial evaluation,1
+79.1 DECO - RGPD,Task,Trivial,6.0,No,6.0,steering meeting,1
+79.1 DECO - RGPD,Task,Trivial,0.0,No,0.0,project and process monitoring,1
+79.1 DECO - RGPD,Task,Trivial,0.0,No,0.0,process training,1
+79.1 DECO - RGPD,Task,Trivial,1.0,No,1.0,internal closure,1
+79.1 DECO - RGPD,Task,Trivial,1.0,No,1.0,external closure,1
+81.1 CIMPAS - RGPD,Task,Trivial,1.0,No,1.0,workshop plan,1
+81.1 CIMPAS - RGPD,Task,Trivial,0.0,No,0.0,initial training,1
+81.1 CIMPAS - RGPD,Task,Trivial,1.0,No,1.0,kickoff meeting,1
+81.1 CIMPAS - RGPD,Task,Trivial,2.0,No,2.0,kick off presentation,1
+81.1 CIMPAS - RGPD,Task,Trivial,1.0,No,1.0,project configuration,1
+81.1 CIMPAS - RGPD,Task,Trivial,2.0,No,2.0,monitoring meeting 3,1
+81.1 CIMPAS - RGPD,Task,Trivial,2.0,No,2.0,monitoring meeting 2,1
+81.1 CIMPAS - RGPD,Task,Trivial,2.0,No,2.0,monitoring meeting 1,1
+81.1 CIMPAS - RGPD,Task,Trivial,8.0,No,8.0,final evaluation plan,1
+81.1 CIMPAS - RGPD,Task,Trivial,0.0,No,0.0,management review,1
+81.1 CIMPAS - RGPD,Task,Trivial,4.0,No,4.0,workshop 6 information security,1
+81.1 CIMPAS - RGPD,Meeting,Trivial,0.0,No,0.0,workshop 5 process financial rh communication,1
+81.1 CIMPAS - RGPD,Task,Trivial,4.0,No,4.0,workshop 4 data violation and order management,1
+81.1 CIMPAS - RGPD,Task,Trivial,4.0,No,4.0,workshop 3 privacy policy and consent process,1
+81.1 CIMPAS - RGPD,Task,Trivial,4.0,No,4.0,workshop 2 risk treatment process,1
+81.1 CIMPAS - RGPD,Task,Trivial,4.0,No,4.0,workshop 1 data treatment process,1
+81.1 CIMPAS - RGPD,Task,Trivial,8.0,No,8.0,initial evaluation,1
+81.1 CIMPAS - RGPD,Task,Trivial,2.0,No,2.0,steering meeting,1
+81.1 CIMPAS - RGPD,Task,Trivial,0.0,No,0.0,project and process monitoring,1
+81.1 CIMPAS - RGPD,Task,Trivial,0.0,No,0.0,process training,1
+81.1 CIMPAS - RGPD,Task,Trivial,1.0,No,1.0,internal closure,1
+81.1 CIMPAS - RGPD,Task,Trivial,1.0,No,1.0,external closure,1
+82.1 PUBLICIS ONE - RGPD,Task,Trivial,1.0,No,1.0,workshop plan,1
+82.1 PUBLICIS ONE - RGPD,Task,Trivial,8.0,No,8.0,initial training,1
+82.1 PUBLICIS ONE - RGPD,Task,Trivial,1.0,No,1.0,kickoff meeting,1
+82.1 PUBLICIS ONE - RGPD,Task,Trivial,2.0,No,2.0,kick off presentation,1
+82.1 PUBLICIS ONE - RGPD,Task,Trivial,1.0,No,1.0,project configuration,1
+82.1 PUBLICIS ONE - RGPD,Task,Trivial,16.0,No,16.0,final evaluation,1
+82.1 PUBLICIS ONE - RGPD,Task,Trivial,8.0,No,8.0,monitoring meeting 4,1
+82.1 PUBLICIS ONE - RGPD,Task,Trivial,2.0,No,2.0,monitoring meeting 3,1
+82.1 PUBLICIS ONE - RGPD,Task,Trivial,2.0,No,2.0,monitoring meeting 2,1
+82.1 PUBLICIS ONE - RGPD,Task,Trivial,2.0,No,2.0,monitoring meeting 1,1
+82.1 PUBLICIS ONE - RGPD,Meeting,Trivial,14.0,No,14.0,publicis one rgpd monitoring,1
+82.1 PUBLICIS ONE - RGPD,Task,Trivial,16.0,No,16.0,final evaluation plan,1
+82.1 PUBLICIS ONE - RGPD,Task,Trivial,0.0,No,0.0,management review,1
+82.1 PUBLICIS ONE - RGPD,Task,Trivial,4.0,No,4.0,workshop 6 information security,1
+82.1 PUBLICIS ONE - RGPD,Meeting,Trivial,0.0,No,0.0,workshop 5 process financial rh communication,1
+82.1 PUBLICIS ONE - RGPD,Task,Trivial,0.0,No,0.0,workshop 4 data violation and order management,1
+82.1 PUBLICIS ONE - RGPD,Task,Trivial,0.0,No,0.0,workshop 3 privacy policy and consent process,1
+82.1 PUBLICIS ONE - RGPD,Task,Trivial,8.0,No,8.0,workshop 2 risk treatment process,1
+82.1 PUBLICIS ONE - RGPD,Task,Trivial,4.0,No,4.0,workshop 1 data treatment process,1
+82.1 PUBLICIS ONE - RGPD,Task,Trivial,8.0,No,8.0,initial evaluation,1
+82.1 PUBLICIS ONE - RGPD,Task,Trivial,2.0,No,2.0,steering meeting,1
+82.1 PUBLICIS ONE - RGPD,Task,Trivial,0.0,No,0.0,project and process monitoring,1
+82.1 PUBLICIS ONE - RGPD,Task,Trivial,0.0,No,0.0,process training,1
+82.1 PUBLICIS ONE - RGPD,Task,Trivial,1.0,No,1.0,internal closure,1
+82.1 PUBLICIS ONE - RGPD,Task,Trivial,1.0,No,1.0,external closure,1
+83.1 Ordem dos Engenheiros - RGPD,Task,Trivial,1.0,No,1.0,workshop plan,1
+83.1 Ordem dos Engenheiros - RGPD,Task,Trivial,0.0,No,0.0,initial training,1
+83.1 Ordem dos Engenheiros - RGPD,Task,Trivial,2.0,No,2.0,kickoff meeting,1
+83.1 Ordem dos Engenheiros - RGPD,Task,Trivial,2.0,No,2.0,kick off presentation,1
+83.1 Ordem dos Engenheiros - RGPD,Task,Trivial,1.0,No,1.0,project configuration,1
+83.1 Ordem dos Engenheiros - RGPD,Task,Trivial,24.0,No,24.0,final evaluation,1
+83.1 Ordem dos Engenheiros - RGPD,Task,Trivial,2.0,No,2.0,followup meeting 5,1
+83.1 Ordem dos Engenheiros - RGPD,Task,Trivial,2.0,No,2.0,monitoring meeting 4,1
+83.1 Ordem dos Engenheiros - RGPD,Task,Trivial,2.0,No,2.0,monitoring meeting 3,1
+83.1 Ordem dos Engenheiros - RGPD,Task,Trivial,2.0,No,2.0,monitoring meeting 2,1
+83.1 Ordem dos Engenheiros - RGPD,Task,Trivial,2.0,No,2.0,monitoring meeting 1,1
+83.1 Ordem dos Engenheiros - RGPD,Meeting,Trivial,10.0,No,10.0,order of engineer rgpd monitoring,1
+83.1 Ordem dos Engenheiros - RGPD,Task,Trivial,24.0,No,24.0,final evaluation plan,1
+83.1 Ordem dos Engenheiros - RGPD,Task,Trivial,0.0,No,0.0,management review,1
+83.1 Ordem dos Engenheiros - RGPD,Task,Trivial,0.0,No,0.0,workshop 6 information security,1
+83.1 Ordem dos Engenheiros - RGPD,Meeting,Trivial,0.0,No,0.0,workshop 5 process financial rh communication,1
+83.1 Ordem dos Engenheiros - RGPD,Task,Trivial,4.0,No,4.0,workshop 4 data violation and order management,1
+83.1 Ordem dos Engenheiros - RGPD,Task,Trivial,0.0,No,0.0,workshop 3 privacy policy and consent process,1
+83.1 Ordem dos Engenheiros - RGPD,Task,Trivial,16.0,No,16.0,workshop 2 risk treatment process,1
+83.1 Ordem dos Engenheiros - RGPD,Task,Trivial,0.0,No,0.0,workshop 1 data treatment process,1
+83.1 Ordem dos Engenheiros - RGPD,Task,Trivial,8.0,No,8.0,initial evaluation,1
+83.1 Ordem dos Engenheiros - RGPD,Task,Trivial,10.0,No,10.0,steering meeting,1
+83.1 Ordem dos Engenheiros - RGPD,Task,Trivial,0.0,No,0.0,project and process monitoring,1
+83.1 Ordem dos Engenheiros - RGPD,Task,Trivial,0.0,No,0.0,process training,1
+83.1 Ordem dos Engenheiros - RGPD,Task,Trivial,1.0,No,1.0,internal closure,1
+83.1 Ordem dos Engenheiros - RGPD,Task,Trivial,1.0,No,1.0,external closure,1
+84.1 Omnibees - RGPD,Task,Trivial,1.0,No,1.0,workshop plan,1
+84.1 Omnibees - RGPD,Task,Trivial,8.0,No,8.0,initial training,1
+84.1 Omnibees - RGPD,Task,Trivial,2.0,No,2.0,kickoff meeting,1
+84.1 Omnibees - RGPD,Task,Trivial,2.0,No,2.0,kick off presentation,1
+84.1 Omnibees - RGPD,Task,Trivial,1.0,No,1.0,project configuration,1
+84.1 Omnibees - RGPD,Task,Trivial,2.0,No,2.0,followup meeting 5,1
+84.1 Omnibees - RGPD,Task,Trivial,2.0,No,2.0,monitoring meeting 4,1
+84.1 Omnibees - RGPD,Task,Trivial,2.0,No,2.0,monitoring meeting 3,1
+84.1 Omnibees - RGPD,Task,Trivial,2.0,No,2.0,monitoring meeting 2,1
+84.1 Omnibees - RGPD,Task,Trivial,2.0,No,2.0,monitoring meeting 1,1
+84.1 Omnibees - RGPD,Task,Trivial,16.0,No,16.0,final evaluation plan,1
+84.1 Omnibees - RGPD,Task,Trivial,0.0,No,0.0,management review,1
+84.1 Omnibees - RGPD,Task,Trivial,0.0,No,0.0,workshop 6 information security,1
+84.1 Omnibees - RGPD,Meeting,Trivial,0.0,No,0.0,workshop 5 process financial rh communication,1
+84.1 Omnibees - RGPD,Task,Trivial,0.0,No,0.0,workshop 4 data violation and order management,1
+84.1 Omnibees - RGPD,Task,Trivial,4.0,No,4.0,workshop 3 privacy policy and consent process,1
+84.1 Omnibees - RGPD,Task,Trivial,4.0,No,4.0,workshop 2 risk treatment process,1
+84.1 Omnibees - RGPD,Task,Trivial,0.0,No,0.0,workshop 1 data treatment process,1
+84.1 Omnibees - RGPD,Task,Trivial,8.0,No,8.0,initial evaluation,1
+84.1 Omnibees - RGPD,Task,Trivial,0.0,No,0.0,steering meeting,1
+84.1 Omnibees - RGPD,Task,Trivial,2.0,No,2.0,project and process monitoring,1
+84.1 Omnibees - RGPD,Task,Trivial,2.0,No,2.0,process training,1
+84.1 Omnibees - RGPD,Task,Trivial,2.0,No,2.0,internal closure,1
+84.1 Omnibees - RGPD,Task,Trivial,2.0,No,2.0,external closure,1
+85.1 Ebankit - ISO 27001,Task,Trivial,2.0,No,2.0,internal kickoff,1
+85.1 Ebankit - ISO 27001,Task,Trivial,1.0,No,1.0,project planning,1
+85.1 Ebankit - ISO 27001,Task,Trivial,2.0,No,2.0,project kickoff,1
+85.1 Ebankit - ISO 27001,Task,Trivial,1.0,No,1.0,kickoff,1
+85.1 Ebankit - ISO 27001,Task,Trivial,2.0,Yes,2.0,monitoring meeting 1,1
+85.1 Ebankit - ISO 27001,Task,Trivial,2.0,Yes,2.0,monitoring meeting 1,1
+85.1 Ebankit - ISO 27001,Task,Trivial,2.0,Yes,2.0,monitoring meeting 1,1
+85.1 Ebankit - ISO 27001,Task,Trivial,2.0,Yes,2.0,monitoring meeting 1,1
+85.1 Ebankit - ISO 27001,Task,Trivial,4.0,Yes,4.0,preparation external audit phase 1,1
+85.1 Ebankit - ISO 27001,Task,Trivial,3.0,Yes,3.0,action plan,1
+85.1 Ebankit - ISO 27001,Task,Trivial,24.0,Yes,24.0,external audit phase 1,1
+85.1 Ebankit - ISO 27001,Task,Trivial,0.0,Yes,0.0,preparation external audit phase 2,1
+85.1 Ebankit - ISO 27001,Task,Trivial,32.0,Yes,32.0,external audit phase 2,1
+85.1 Ebankit - ISO 27001,Task,Trivial,3.0,No,3.0,stock plan,1
+85.1 Ebankit - ISO 27001,Task,Trivial,2.0,No,2.0,final evaluation report,1
+85.1 Ebankit - ISO 27001,Task,Trivial,0.0,No,0.0,final evaluation pre presentation of result,1
+85.1 Ebankit - ISO 27001,Task,Trivial,12.0,No,12.0,final evaluation,1
+85.1 Ebankit - ISO 27001,Task,Trivial,3.0,No,3.0,final evaluation presentation of result,1
+85.1 Ebankit - ISO 27001,Task,Trivial,2.0,No,2.0,preparation of the initial evaluation,1
+85.1 Ebankit - ISO 27001,Task,Trivial,3.0,No,3.0,initial evaluation presentation of result,1
+85.1 Ebankit - ISO 27001,Task,Trivial,3.0,No,3.0,initial evaluation pre presentation result,1
+85.1 Ebankit - ISO 27001,Task,Trivial,4.0,No,4.0,report initial evaluation,1
+85.1 Ebankit - ISO 27001,Task,Trivial,8.0,No,8.0,initial evaluation,1
+85.1 Ebankit - ISO 27001,Task,Trivial,3.0,No,3.0,intermediate assessment presentation of the result,1
+85.1 Ebankit - ISO 27001,Task,Trivial,2.0,No,2.0,intermediate rating report,1
+85.1 Ebankit - ISO 27001,Task,Trivial,12.0,No,12.0,intermediate evaluation,1
+85.1 Ebankit - ISO 27001,Task,Trivial,3.0,No,3.0,interimation pre presentation of result,1
+85.1 Ebankit - ISO 27001,Task,Trivial,1.0,No,1.0,internal design closure,1
+85.1 Ebankit - ISO 27001,Task,Trivial,1.0,No,1.0,project zip,1
+85.1 Ebankit - ISO 27001,Task,Trivial,3.0,No,3.0,workshop 8 capacity management availability and continuity of business,1
+85.1 Ebankit - ISO 27001,Task,Trivial,0.0,No,0.0,workshop 7 product development,1
+85.1 Ebankit - ISO 27001,Task,Trivial,0.0,No,0.0,workshop 6 shopping and legal,1
+85.1 Ebankit - ISO 27001,Task,Trivial,3.0,No,3.0,workshop 5 information security in hr and marketing,1
+85.1 Ebankit - ISO 27001,Task,Trivial,3.0,No,3.0,workshop 4 troubleshootingvulnerabilities and incident,1
+85.1 Ebankit - ISO 27001,Task,Trivial,3.0,No,3.0,workshop 3 physical and logical control,1
+85.1 Ebankit - ISO 27001,Task,Trivial,3.0,No,3.0,workshop 2 information security management system and integrated management system,1
+85.1 Ebankit - ISO 27001,Task,Trivial,3.0,No,3.0,workshop 1 risk management,1
+85.1 Ebankit - RGPD,Task,Trivial,1.0,No,1.0,workshop plan,1
+85.1 Ebankit - RGPD,Task,Trivial,2.0,No,2.0,initial training,1
+85.1 Ebankit - RGPD,Task,Trivial,2.0,No,2.0,kickoff meeting,1
+85.1 Ebankit - RGPD,Task,Trivial,2.0,No,2.0,kick off presentation,1
+85.1 Ebankit - RGPD,Task,Trivial,1.0,No,1.0,project configuration,1
+85.1 Ebankit - RGPD,Task,Trivial,2.0,No,2.0,monitoring meeting 6,1
+85.1 Ebankit - RGPD,Task,Trivial,2.0,No,2.0,followup meeting 5,1
+85.1 Ebankit - RGPD,Task,Trivial,2.0,No,2.0,monitoring meeting 4,1
+85.1 Ebankit - RGPD,Task,Trivial,2.0,No,2.0,monitoring meeting 3,1
+85.1 Ebankit - RGPD,Task,Trivial,2.0,No,2.0,monitoring meeting 2,1
+85.1 Ebankit - RGPD,Task,Trivial,2.0,No,2.0,monitoring meeting 1,1
+85.1 Ebankit - RGPD,Task,Trivial,16.0,No,16.0,final evaluation plan,1
+85.1 Ebankit - RGPD,Task,Trivial,0.0,No,0.0,management review,1
+85.1 Ebankit - RGPD,Task,Trivial,0.0,No,0.0,workshop 6 information security,1
+85.1 Ebankit - RGPD,Meeting,Trivial,2.0,No,2.0,workshop 5 process financial rh communication,1
+85.1 Ebankit - RGPD,Task,Trivial,1.0,No,1.0,workshop 4 data violation and order management,1
+85.1 Ebankit - RGPD,Task,Trivial,1.0,No,1.0,workshop 3 privacy policy and consent process,1
+85.1 Ebankit - RGPD,Task,Trivial,4.0,No,4.0,workshop 2 risk treatment process,1
+85.1 Ebankit - RGPD,Task,Trivial,2.0,No,2.0,workshop 1 data treatment process,1
+85.1 Ebankit - RGPD,Task,Trivial,16.0,No,16.0,initial evaluation,1
+85.1 Ebankit - RGPD,Task,Trivial,2.0,No,2.0,steering meeting,1
+85.1 Ebankit - RGPD,Task,Trivial,0.0,No,0.0,project and process monitoring,1
+85.1 Ebankit - RGPD,Task,Trivial,0.0,No,0.0,process training,1
+85.1 Ebankit - RGPD,Task,Trivial,1.0,No,1.0,internal closure,1
+85.1 Ebankit - RGPD,Task,Trivial,1.0,No,1.0,external closure,1
+85.2 Ebankit - CMMI2,Task,Trivial,7.0,Yes,7.0,followup preparation,1
+85.2 Ebankit - CMMI2,Task,Trivial,2.0,Yes,2.0,ebankit cmmi2 information collection appraisal audit team,1
+85.2 Ebankit - CMMI2,Task,Trivial,2.0,Yes,2.0,monitoring 22,1
+85.2 Ebankit - CMMI2,Task,Trivial,2.0,Yes,2.0,followup preparation,1
+85.2 Ebankit - CMMI2,Task,Trivial,1.0,Yes,1.0,ebankit cmmi2 meeting preparation audit,1
+85.2 Ebankit - CMMI2,Task,Trivial,1.0,Yes,1.0,followup 21,1
+85.2 Ebankit - CMMI2,Task,Trivial,1.0,Yes,1.0,monitoring 22,1
+85.2 Ebankit - CMMI2,Task,Trivial,1.0,Yes,1.0,accompaniment 20,1
+85.2 Ebankit - CMMI2,Task,Trivial,6.0,Yes,6.0,ceremony sprint planning sprint review,1
+85.2 Ebankit - CMMI2,Task,Trivial,1.0,Yes,1.0,followup preparation,1
+85.2 Ebankit - CMMI2,Task,Trivial,1.0,Yes,1.0,followup preparation,1
+85.2 Ebankit - CMMI2,Task,Trivial,1.0,Yes,2.0,accompaniment 19,2
+85.2 Ebankit - CMMI2,Task,Trivial,1.0,Yes,1.0,accompaniment 18,1
+85.2 Ebankit - CMMI2,Task,Trivial,1.0,Yes,2.0,ebankit cmmi2 followup of ceremony,2
+85.2 Ebankit - CMMI2,Task,Trivial,1.0,Yes,2.0,accompaniment 17,2
+85.2 Ebankit - CMMI2,Task,Trivial,3.0,Yes,3.0,preparation of accompaniment,1
+85.2 Ebankit - CMMI2,Task,Trivial,7.0,Yes,28.0,preparation accompaniment,4
+85.2 Ebankit - CMMI2,Task,Trivial,2.0,Yes,8.0,accompaniment 16,4
+85.2 Ebankit - CMMI2,Task,Trivial,2.0,Yes,8.0,accompaniment 15,4
+85.2 Ebankit - CMMI2,Task,Trivial,1.0,Yes,4.0,accompaniment 14,4
+85.2 Ebankit - CMMI2,Task,Trivial,2.0,Yes,8.0,accompaniment 13,4
+85.2 Ebankit - CMMI2,Task,Trivial,2.0,Yes,8.0,accompaniment 12,4
+85.2 Ebankit - CMMI2,Task,Trivial,2.0,Yes,8.0,followup 11,4
+85.2 Ebankit - CMMI2,Task,Trivial,8.0,Yes,8.0,ebankit cmmi2 acompanhamento readiness review,1
+85.2 Ebankit - CMMI2,Task,Trivial,2.0,Yes,4.0,ebankit cmmi2 monitoring audit,2
+85.2 Ebankit - CMMI2,Task,Trivial,2.0,Yes,4.0,ebankit cmmi2 accompaniment ceremony scrum,2
+85.2 Ebankit - CMMI2,Task,Trivial,2.0,Yes,8.0,accompaniment 10,4
+85.2 Ebankit - CMMI2,Task,Trivial,2.0,Yes,8.0,accompaniment 9,4
+85.2 Ebankit - CMMI2,Task,Trivial,2.0,Yes,8.0,accompaniment 8,4
+85.2 Ebankit - CMMI2,Task,Trivial,2.0,Yes,8.0,accompaniment 7,4
+85.2 Ebankit - CMMI2,Task,Trivial,2.0,Yes,8.0,ebankit cmmi2 presentation of result,4
+85.2 Ebankit - CMMI2,Task,Trivial,2.0,Yes,8.0,followup preparation 6,4
+85.2 Ebankit - CMMI2,Task,Trivial,2.0,Yes,8.0,preparation followup 5,4
+85.2 Ebankit - CMMI2,Task,Trivial,2.0,Yes,8.0,followup preparation 4,4
+85.2 Ebankit - CMMI2,Task,Trivial,2.0,Yes,8.0,followup preparation 3,4
+85.2 Ebankit - CMMI2,Task,Trivial,2.0,Yes,8.0,preparation monitoring 2,4
+85.2 Ebankit - CMMI2,Task,Trivial,2.0,Yes,8.0,accompaniment 6,4
+85.2 Ebankit - CMMI2,Task,Trivial,2.0,Yes,8.0,followup 5,4
+85.2 Ebankit - CMMI2,Task,Trivial,4.0,Yes,16.0,accompaniment 4,4
+85.2 Ebankit - CMMI2,Task,Trivial,4.0,Yes,16.0,accompaniment 3,4
+85.2 Ebankit - CMMI2,Task,Trivial,2.0,Yes,8.0,followup 2,4
+85.2 Ebankit - CMMI2,Task,Trivial,2.0,Yes,8.0,followup 1,4
+85.2 Ebankit - CMMI2,Task,Trivial,20.0,Yes,20.0,ebankit workshop preparação workshop,1
+85.2 Ebankit - CMMI2,Task,Trivial,4.0,No,4.0,ebankit cmmi2 preparation workshop requirement management,1
+85.2 Ebankit - CMMI2,Task,Trivial,2.0,No,2.0,ebankit cmmi2 preparação workshop gp,1
+85.2 Ebankit - CMMI2,Task,Trivial,4.0,No,4.0,ebankit cmmi 2 preparar gap analysis,1
+85.2 Ebankit - CMMI2,Task,Trivial,3.0,No,3.0,ebankit cmmi 2 preparing initial training,1
+85.2 Ebankit - CMMI2,Task,Trivial,2.0,No,2.0,ebankit cmmi 2 presentation of the gap analysis report,1
+85.2 Ebankit - CMMI2,Task,Trivial,3.0,No,3.0,ebankit cmmi 2 executive training,1
+85.2 Ebankit - CMMI2,Task,Trivial,2.0,No,2.0,ebankit cmmi2 ler le,1
+85.2 Ebankit - CMMI2,Task,Trivial,2.0,No,2.0,ebankit cmmi2 preparing training,1
+85.2 Ebankit - CMMI2,Task,Trivial,4.0,No,4.0,ebankit gap analysis report initial,1
+85.2 Ebankit - CMMI2,Task,Trivial,4.0,No,4.0,ebankit cmmi2 cmmi training workshop le ebankit process,1
+85.2 Ebankit - CMMI2,Task,Trivial,4.0,No,4.0,ebankit cmmi2 preparação gap analysis,1
+85.2 Ebankit - CMMI2,Task,Trivial,4.0,No,4.0,ebankit cmmi2 presentation of result,1
+85.2 Ebankit - CMMI2,Task,Trivial,4.0,No,4.0,ebankit cmmi2 executive training,1
+85.2 Ebankit - CMMI2,Task,Trivial,8.0,No,8.0,ebankit cmmi2 preparation training,1
+85.2 Ebankit - CMMI2,Task,Trivial,1.0,No,1.0,project closure,1
+85.2 Ebankit - CMMI2,Task,Trivial,2.0,No,2.0,internal project closure interno,1
+85.2 Ebankit - CMMI2,Task,Trivial,32.0,No,96.0,scope,3
+85.2 Ebankit - CMMI2,Task,Trivial,4.5,No,13.5,scampi plan and preparation,3
+85.2 Ebankit - CMMI2,Task,Trivial,12.0,No,36.0,evidence mapping,3
+85.2 Ebankit - CMMI2,Task,Trivial,8.0,No,32.0,scampi c,4
+85.2 Ebankit - CMMI2,Task,Trivial,4.0,No,4.0,scampi c plan and preparation,1
+85.2 Ebankit - CMMI2,Task,Trivial,4.0,No,12.0,workshop requirement,3
+85.2 Ebankit - CMMI2,Task,Trivial,4.0,No,12.0,workshop engineering,3
+85.2 Ebankit - CMMI2,Task,Trivial,2.0,No,6.0,workshop quality,3
+85.2 Ebankit - CMMI2,Task,Trivial,2.0,No,6.0,workshop gov ii,3
+85.2 Ebankit - CMMI2,Task,Trivial,3.0,No,9.0,workshop project management,3
+85.2 Ebankit - CMMI2,Task,Trivial,1.0,No,3.0,workshop estimating,3
+85.2 Ebankit - CMMI2,Task,Trivial,4.0,No,4.0,financial adjudication,1
+85.2 Ebankit - CMMI2,Task,Trivial,4.0,No,4.0,kickoff meeting,1
+85.2 Ebankit - CMMI2,Task,Trivial,1.0,No,1.0,project configuration cost center creation,1
+85.2 Ebankit - CMMI2,Task,Trivial,1.0,No,1.0,project configuration dropbox project folder creation,1
+85.2 Ebankit - CMMI2,Task,Trivial,1.0,No,1.0,project configuration project creation,1
+85.2 Ebankit - CMMI2,Task,Trivial,1.0,No,1.0,project configuration project instance creation,1
+85.2 Ebankit - CMMI2,Task,Trivial,1.0,No,1.0,project dissemination,1
+85.2 Ebankit - CMMI2,Task,Trivial,1.0,No,1.0,project planning,1
+85.2 Ebankit - CMMI2,Task,Trivial,4.0,No,4.0,project configuration,1
+85.2 Ebankit - CMMI2,Task,Trivial,2.0,No,2.0,team definition,1
+86.1 I.Câncio - RGPD,Task,Trivial,1.0,No,1.0,workshop plan,1
+86.1 I.Câncio - RGPD,Task,Trivial,8.0,No,8.0,initial training,1
+86.1 I.Câncio - RGPD,Task,Trivial,2.0,No,2.0,kickoff meeting,1
+86.1 I.Câncio - RGPD,Task,Trivial,2.0,No,2.0,kick off presentation,1
+86.1 I.Câncio - RGPD,Task,Trivial,1.0,No,1.0,project configuration,1
+86.1 I.Câncio - RGPD,Task,Trivial,4.0,No,4.0,monitoring meeting 1,1
+86.1 I.Câncio - RGPD,Task,Trivial,16.0,No,16.0,final evaluation plan,1
+86.1 I.Câncio - RGPD,Task,Trivial,0.0,No,0.0,management review,1
+86.1 I.Câncio - RGPD,Task,Trivial,4.0,No,4.0,workshop 6 information security,1
+86.1 I.Câncio - RGPD,Meeting,Trivial,0.0,No,0.0,workshop 5 process financial rh communication,1
+86.1 I.Câncio - RGPD,Task,Trivial,0.0,No,0.0,workshop 4 data violation and order management,1
+86.1 I.Câncio - RGPD,Task,Trivial,4.0,No,4.0,workshop 3 privacy policy and consent process,1
+86.1 I.Câncio - RGPD,Task,Trivial,4.0,No,4.0,workshop 2 risk treatment process,1
+86.1 I.Câncio - RGPD,Task,Trivial,0.0,No,0.0,workshop 1 data treatment process,1
+86.1 I.Câncio - RGPD,Task,Trivial,4.0,No,4.0,steering meeting,1
+86.1 I.Câncio - RGPD,Task,Trivial,0.0,No,0.0,project and process monitoring,1
+86.1 I.Câncio - RGPD,Task,Trivial,0.0,No,0.0,process training,1
+86.1 I.Câncio - RGPD,Task,Trivial,1.0,No,1.0,internal closure,1
+86.1 I.Câncio - RGPD,Task,Trivial,1.0,No,1.0,external closure,1
+87.1 Frotcom ITMark,Task,Trivial,1.0,No,1.0,set up the team,1
+87.1 Frotcom ITMark,Task,Trivial,1.0,No,1.0,project plan,1
+87.1 Frotcom ITMark,Task,Trivial,1.0,No,1.0,kickoff meeting,1
+87.1 Frotcom ITMark,Task,Trivial,1.0,No,1.0,workshop plan and preparation,1
+87.1 Frotcom ITMark,Task,Trivial,16.0,No,16.0,analyze gap,1
+87.1 Frotcom ITMark,Task,Trivial,1.0,No,1.0,steering meeting,1
+87.1 Frotcom ITMark,Task,Trivial,1.0,No,1.0,pilot training,1
+87.1 Frotcom ITMark,Task,Trivial,1.0,No,1.0,workshop,1
+87.1 Frotcom ITMark,Task,Trivial,1.0,No,1.0,workshop plan and preparation,1
+87.1 Frotcom ITMark,Requirement,Trivial,8.0,No,8.0,intermediate assessment,1
+87.1 Frotcom ITMark,Requirement,Trivial,2.0,No,2.0,final assessment plan and preparation,1
+87.1 Frotcom ITMark,Requirement,Trivial,1.0,No,1.0,intermediate assessment plan and preparation,1
+87.1 Frotcom ITMark,Requirement,Trivial,12.0,No,12.0,final assessment plan and preparation,1
+87.1 Frotcom ITMark,Requirement,Trivial,16.0,No,16.0,fix intermediate assessment issue,1
+87.1 Frotcom ITMark,Task,Trivial,2.0,No,2.0,project closure,1
+88.1 Fraunhofer - RGPD,Task,Trivial,1.0,No,1.0,workshop plan,1
+88.1 Fraunhofer - RGPD,Task,Trivial,4.0,No,4.0,initial training,1
+88.1 Fraunhofer - RGPD,Task,Trivial,2.0,No,2.0,kickoff meeting,1
+88.1 Fraunhofer - RGPD,Task,Trivial,2.0,No,2.0,kick off presentation,1
+88.1 Fraunhofer - RGPD,Task,Trivial,1.0,No,1.0,project configuration,1
+88.1 Fraunhofer - RGPD,Task,Trivial,2.0,Yes,2.0,monitoring meeting 13,1
+88.1 Fraunhofer - RGPD,Task,Trivial,2.0,Yes,2.0,monitoring meeting 12,1
+88.1 Fraunhofer - RGPD,Task,Trivial,2.0,Yes,2.0,monitoring meeting 11,1
+88.1 Fraunhofer - RGPD,Task,Trivial,2.0,Yes,2.0,followup meeting 10,1
+88.1 Fraunhofer - RGPD,Task,Trivial,2.0,Yes,2.0,monitoring meeting 9,1
+88.1 Fraunhofer - RGPD,Task,Trivial,2.0,Yes,2.0,monitoring meeting 8,1
+88.1 Fraunhofer - RGPD,Task,Trivial,2.0,Yes,2.0,monitoring meeting 7,1
+88.1 Fraunhofer - RGPD,Task,Trivial,16.0,No,16.0,final evaluation,1
+88.1 Fraunhofer - RGPD,Task,Trivial,2.0,No,2.0,monitoring meeting 6,1
+88.1 Fraunhofer - RGPD,Task,Trivial,2.0,No,2.0,followup meeting 5,1
+88.1 Fraunhofer - RGPD,Task,Trivial,2.0,No,2.0,monitoring meeting 4,1
+88.1 Fraunhofer - RGPD,Task,Trivial,2.0,No,2.0,monitoring meeting 3,1
+88.1 Fraunhofer - RGPD,Task,Trivial,2.0,No,2.0,monitoring meeting 2,1
+88.1 Fraunhofer - RGPD,Task,Trivial,2.0,No,2.0,monitoring meeting 1,1
+88.1 Fraunhofer - RGPD,Meeting,Trivial,26.0,No,26.0,fraunhofer rgpd accompaniment,1
+88.1 Fraunhofer - RGPD,Task,Trivial,16.0,No,16.0,final evaluation plan,1
+88.1 Fraunhofer - RGPD,Task,Trivial,0.0,No,0.0,management review,1
+88.1 Fraunhofer - RGPD,Task,Trivial,4.0,No,4.0,workshop 6 information security,1
+88.1 Fraunhofer - RGPD,Meeting,Trivial,0.0,No,0.0,workshop 5 process financial rh communication,1
+88.1 Fraunhofer - RGPD,Task,Trivial,4.0,No,4.0,workshop 4 data violation and order management,1
+88.1 Fraunhofer - RGPD,Task,Trivial,4.0,No,4.0,workshop 3 privacy policy and consent process,1
+88.1 Fraunhofer - RGPD,Task,Trivial,0.0,No,0.0,workshop 2 risk treatment process,1
+88.1 Fraunhofer - RGPD,Task,Trivial,4.0,No,4.0,workshop 1 data treatment process,1
+88.1 Fraunhofer - RGPD,Task,Trivial,8.0,No,8.0,initial evaluation,1
+88.1 Fraunhofer - RGPD,Task,Trivial,2.0,No,2.0,steering meeting,1
+88.1 Fraunhofer - RGPD,Task,Trivial,10.0,No,10.0,project and process monitoring,1
+88.1 Fraunhofer - RGPD,Task,Trivial,0.0,No,0.0,process training,1
+88.1 Fraunhofer - RGPD,Task,Trivial,1.0,No,1.0,internal closure,1
+88.1 Fraunhofer - RGPD,Task,Trivial,1.0,No,1.0,external closure,1
+90.1 VGMAA - RGPD,Task,Trivial,1.0,No,1.0,workshop plan,1
+90.1 VGMAA - RGPD,Task,Trivial,4.0,No,4.0,initial training,1
+90.1 VGMAA - RGPD,Task,Trivial,2.0,No,2.0,kickoff meeting,1
+90.1 VGMAA - RGPD,Task,Trivial,2.0,No,2.0,kick off presentation,1
+90.1 VGMAA - RGPD,Task,Trivial,1.0,No,1.0,project configuration,1
+90.1 VGMAA - RGPD,Task,Trivial,2.0,No,2.0,followup meeting 5,1
+90.1 VGMAA - RGPD,Task,Trivial,2.0,No,2.0,monitoring meeting 4,1
+90.1 VGMAA - RGPD,Task,Trivial,2.0,No,2.0,monitoring meeting 3,1
+90.1 VGMAA - RGPD,Task,Trivial,2.0,No,2.0,monitoring meeting 2,1
+90.1 VGMAA - RGPD,Task,Trivial,2.0,No,2.0,monitoring meeting 1,1
+90.1 VGMAA - RGPD,Task,Trivial,16.0,No,16.0,final evaluation plan,1
+90.1 VGMAA - RGPD,Task,Trivial,0.0,No,0.0,management review,1
+90.1 VGMAA - RGPD,Task,Trivial,4.0,No,4.0,workshop 6 information security,1
+90.1 VGMAA - RGPD,Meeting,Trivial,0.0,No,0.0,workshop 5 process financial rh communication,1
+90.1 VGMAA - RGPD,Task,Trivial,4.0,No,4.0,workshop 4 data violation and order management,1
+90.1 VGMAA - RGPD,Task,Trivial,0.0,No,0.0,workshop 3 privacy policy and consent process,1
+90.1 VGMAA - RGPD,Task,Trivial,4.0,No,4.0,workshop 2 risk treatment process,1
+90.1 VGMAA - RGPD,Task,Trivial,0.0,No,0.0,workshop 1 data treatment process,1
+90.1 VGMAA - RGPD,Task,Trivial,8.0,No,8.0,initial evaluation,1
+90.1 VGMAA - RGPD,Task,Trivial,0.0,No,0.0,steering meeting,1
+90.1 VGMAA - RGPD,Task,Trivial,8.0,No,8.0,project and process monitoring,1
+90.1 VGMAA - RGPD,Task,Trivial,0.0,No,0.0,process training,1
+90.1 VGMAA - RGPD,Task,Trivial,1.0,No,1.0,internal closure,1
+90.1 VGMAA - RGPD,Task,Trivial,1.0,No,1.0,external closure,1
+91.1 Médicos no Mundo - RGPD,Task,Trivial,1.0,No,1.0,workshop plan,1
+91.1 Médicos no Mundo - RGPD,Task,Trivial,2.0,No,2.0,kickoff meeting,1
+91.1 Médicos no Mundo - RGPD,Task,Trivial,2.0,No,2.0,kick off presentation,1
+91.1 Médicos no Mundo - RGPD,Task,Trivial,1.0,No,1.0,project configuration,1
+91.1 Médicos no Mundo - RGPD,Task,Trivial,0.0,No,0.0,final evaluation,1
+91.1 Médicos no Mundo - RGPD,Meeting,Trivial,0.0,No,0.0,doctor in the world rgpd accompaniment,1
+92.1 G9 - ISO 27001,Task,Trivial,8.0,No,8.0,g9 iso 27001 folder and project organization,1
+92.1 G9 - ISO 27001,Task,Trivial,8.0,No,32.0,g9 iso27001 kickoff initial diagnosis,4
+92.1 G9 - ISO 27001,Task,Trivial,4.0,No,4.0,g9 iso 27001 initial diagnostic report,1
+92.1 G9 - ISO 27001,Task,Trivial,0.0,No,0.0,g9 iso 27001 initial diagnostic report,1
+92.1 G9 - ISO 27001,Task,Trivial,8.0,No,8.0,g9 iso 27001 conclusion report,1
+92.1 G9 - ISO 27001,Task,Trivial,4.0,No,4.0,g9 iso 27001 preparation report,1
+92.1 G9 - ISO 27001,Task,Trivial,1.0,No,1.0,presentation g9 result,1
+92.1 G9 - ISO 27001,Task,Trivial,4.0,No,4.0,g9 iso27001 conclusion report,1
+92.1 G9 - ISO 27001,Task,Trivial,4.0,No,4.0,g9 iso 27001 shipping initial diagnostic report,1
+92.1 G9 - ISO 27001,Task,Critical,8.0,No,8.0,g9 iso 27001 preparation of the report,1
+92.1 G9 - ISO 27001,Task,Trivial,4.0,No,4.0,result iso 27001 g9 meeting,1
+92.1 G9 - ISO 27001,Task,Trivial,8.0,No,8.0,g9 iso27001 conclusion report,1
+92.1 G9 - ISO 27001,Task,Trivial,4.0,Yes,12.0,workshop 8 purchase and legal,3
+92.1 G9 - ISO 27001,Task,Trivial,4.0,Yes,12.0,workshop 7 physical and logical control access production facility,3
+92.1 G9 - ISO 27001,Task,Trivial,4.0,Yes,12.0,workshop 6 rh marketing,3
+92.1 G9 - ISO 27001,Task,Trivial,4.0,Yes,12.0,workshop 5 business continuity,3
+92.1 G9 - ISO 27001,Task,Trivial,4.0,Yes,12.0,workshop 4 capacity and availability management,3
+92.1 G9 - ISO 27001,Task,Trivial,4.0,Yes,12.0,workshop 3 vulnerability problem and incident management,3
+92.1 G9 - ISO 27001,Task,Trivial,4.0,Yes,12.0,workshop 2 integrated system management quality,3
+92.1 G9 - ISO 27001,Task,Trivial,4.0,Yes,12.0,workshop 1 information security risk analysis and treatment,3
+92.1 G9 - ISO 27001,Task,Trivial,4.0,No,4.0,g9 iso 27001 preparation workshop,1
+92.1 G9 - ISO 27001,Task,Trivial,4.0,No,4.0,g9 iso 27001 preparation of workshop,1
+92.1 G9 - ISO 27001,Task,Trivial,4.0,No,4.0,g9 iso 27001 preparation workshop system management,1
+92.1 G9 - ISO 27001,Task,Trivial,4.0,No,4.0,g9 iso 27001 preparation of workshop,1
+92.1 G9 - ISO 27001,Task,Trivial,4.0,No,4.0,g9 iso 27001 preparation of system management workshop,1
+92.1 G9 - ISO 27001,Task,Trivial,4.0,No,4.0,g9 iso 27001 preparation of system management workshop,1
+92.1 G9 - ISO 27001,Task,Trivial,4.0,No,4.0,g9 iso 27001 preparation of workshop,1
+92.1 G9 - ISO 27001,Task,Trivial,4.0,No,4.0,g9 iso 27001 preparation of workshop continuity hr capacity,1
+92.1 G9 - ISO 27001,Task,Trivial,4.0,No,4.0,g9 iso 27001 finding registration,1
+92.1 G9 - ISO 27001,Task,Trivial,4.0,No,4.0,g9 iso 27001 preparation of workshop continuity hr capacity,1
+92.1 G9 - ISO 27001,Task,Trivial,8.0,No,8.0,g9 iso 27001 preparation workshop,1
+92.1 G9 - ISO 27001,Task,Trivial,4.0,No,4.0,g9 iso 27001 preparation workshop,1
+92.1 G9 - ISO 27001,Task,Trivial,4.0,No,4.0,g9 iso27001 workshop preparation,1
+92.1 G9 - ISO 27001,Task,Trivial,4.0,No,4.0,g9 iso27001 preparation of workshop,1
+92.1 G9 - ISO 27001,Task,Trivial,4.0,No,4.0,g9 iso 27001 preparation workshop,1
+92.1 G9 - ISO 27001,Task,Trivial,4.0,No,4.0,g9 preparing presentation workshop hr,1
+92.1 G9 - ISO 27001,Task,Trivial,6.0,No,6.0,g9 iso 27001 hr workshop preparation,1
+92.1 G9 - ISO 27001,Task,Trivial,8.0,No,8.0,g9 iso 27001 hr workshop preparation,1
+92.1 G9 - ISO 27001,Task,Trivial,2.0,No,2.0,g9 iso 27001 not conformity verification,1
+92.1 G9 - ISO 27001,Task,Trivial,4.0,No,4.0,g9 iso 27001 preparation next step check finding,1
+92.1 G9 - ISO 27001,Task,Trivial,1.0,No,1.0,g9 download wiki document,1
+92.1 G9 - ISO 27001,Task,Trivial,0.0,No,0.0,g9 iso 27001 preparation next step,1
+92.1 G9 - ISO 27001,Task,Trivial,8.0,No,8.0,g9 iso 27001 preparation finding prioritization of finding,1
+92.1 G9 - ISO 27001,Task,Trivial,5.0,No,5.0,g9 preparar template,1
+92.1 G9 - ISO 27001,Task,Trivial,2.0,No,2.0,g9 preparar template,1
+92.1 G9 - ISO 27001,Task,Trivial,5.0,No,5.0,g9 preparar template,1
+92.1 G9 - ISO 27001,Task,Trivial,2.0,No,2.0,g9 preparar template,1
+92.1 G9 - ISO 27001,Task,Trivial,8.0,No,8.0,g9 reply to finding with template,1
+92.1 G9 - ISO 27001,Task,Trivial,1.0,Yes,1.0,accompaniment 13,1
+92.1 G9 - ISO 27001,Task,Trivial,2.0,Yes,2.0,accompaniment 12,1
+92.1 G9 - ISO 27001,Task,Trivial,4.0,No,4.0,g9 iso 27001 analyze registration finding scraim,1
+92.1 G9 - ISO 27001,Task,Trivial,4.0,No,4.0,g9 iso 27001 review document,1
+92.1 G9 - ISO 27001,Task,Trivial,4.0,No,4.0,g9 iso 27001 preparation of followup,1
+92.1 G9 - ISO 27001,Task,Trivial,4.0,No,4.0,g9 iso 27001 followup,1
+92.1 G9 - ISO 27001,Task,Trivial,4.0,No,4.0,g9 iso 27001 preparation monitoring,1
+92.1 G9 - ISO 27001,Task,Trivial,4.0,No,4.0,g9 iso 27001 followup,1
+92.1 G9 - ISO 27001,Task,Trivial,4.0,No,4.0,g9 review isoiec 27001 document,1
+92.1 G9 - ISO 27001,Task,Trivial,4.0,No,4.0,g9 accompaniment isoiec 27001,1
+92.1 G9 - ISO 27001,Task,Trivial,4.0,No,4.0,g9 27001 review of comment with comment,1
+92.1 G9 - ISO 27001,Task,Trivial,2.0,No,2.0,g9 iso 27001 document,1
+92.1 G9 - ISO 27001,Task,Trivial,4.0,No,4.0,g9 monitoring,1
+92.1 G9 - ISO 27001,Task,Trivial,4.0,No,4.0,g9 iso27001 verification of document,1
+92.1 G9 - ISO 27001,Task,Trivial,4.0,No,4.0,g9 iso 27001 monitoring meeting,1
+92.1 G9 - ISO 27001,Task,Trivial,6.0,No,6.0,g9 iso 27001 documentation review,1
+92.1 G9 - ISO 27001,Task,Trivial,4.0,No,4.0,g9 accompaniment iso 27001,1
+92.1 G9 - ISO 27001,Task,Trivial,4.0,No,4.0,g9 27001 accomprehension preparation iso 27001,1
+92.1 G9 - ISO 27001,Task,Trivial,1.0,No,1.0,g9 alignment meeting,1
+92.1 G9 - ISO 27001,Task,Trivial,2.0,No,2.0,g9 review and comment,1
+92.1 G9 - ISO 27001,Task,Trivial,4.0,No,4.0,g9 preparation of excel monitoring,1
+92.1 G9 - ISO 27001,Task,Trivial,4.0,No,4.0,g9 monitoring,1
+92.1 G9 - ISO 27001,Task,Trivial,4.0,No,4.0,g9 accompaniment iso 27001 risk,1
+92.1 G9 - ISO 27001,Task,Trivial,2.0,No,2.0,g9 monitoring,1
+92.1 G9 - ISO 27001,Task,Trivial,4.0,No,4.0,g9 iso27001 risk management monitoring,1
+92.1 G9 - ISO 27001,Task,Trivial,3.0,No,3.0,g9 review added documentation,1
+92.1 G9 - ISO 27001,Task,Trivial,4.0,No,4.0,g9 iso 27001 monitoring meeting,1
+92.1 G9 - ISO 27001,Task,Trivial,4.0,No,4.0,g9 monitoring,1
+92.1 G9 - ISO 27001,Task,Trivial,4.0,No,4.0,g9 monitoring capacity management,1
+92.1 G9 - ISO 27001,Task,Trivial,2.0,No,2.0,g9 review added documentation,1
+92.1 G9 - ISO 27001,Task,Trivial,4.0,No,4.0,g9 monitoring,1
+92.1 G9 - ISO 27001,Task,Trivial,3.0,No,3.0,g9 iso27001 monitoring,1
+92.1 G9 - ISO 27001,Task,Trivial,2.0,No,2.0,g9 iso 27001 preparing monitoring day 12,1
+92.1 G9 - ISO 27001,Task,Trivial,4.0,No,4.0,g9 iso 27001 accompanying excel,1
+92.1 G9 - ISO 27001,Task,Trivial,3.0,No,3.0,g9 monitoring,1
+92.1 G9 - ISO 27001,Task,Trivial,4.0,No,4.0,g9 iso 27001 followup,1
+95.1 Procensus - ISO 27001,Task,Trivial,8.0,No,8.0,dodoc 27001 review of the gap analysis initial report,1
+95.1 Procensus - ISO 27001,Task,Trivial,4.0,No,4.0,procensus 27001 review task scraim,1
+95.1 Procensus - ISO 27001,Task,Trivial,4.0,No,4.0,procensus 27001 accompaniment 4,1
+95.1 Procensus - ISO 27001,Task,Trivial,4.0,No,4.0,procensus monitoring,1
+95.1 Procensus - ISO 27001,Task,Trivial,4.0,No,4.0,new rgpd class,1
+95.1 Procensus - ISO 27001,Task,Trivial,4.0,No,4.0,proncensus iso 27001 monitoring next action,1
+95.1 Procensus - ISO 27001,Task,Trivial,4.0,No,4.0,procensus iso 27001 followup,1
+95.1 Procensus - ISO 27001,Task,Trivial,4.0,No,4.0,procensus iso 27001 risk followup preparation,1
+95.1 Procensus - ISO 27001,Task,Trivial,4.0,No,4.0,dodoc iso 27001 workshop physical and logical control management,1
+95.1 Procensus - ISO 27001,Task,Trivial,4.0,No,4.0,procensus iso 27001 accompaniment risk,1
+95.1 Procensus - ISO 27001,Task,Trivial,2.0,No,2.0,procensus iso 27001 preparing monitoring day 13,1
+95.1 Procensus - ISO 27001,Task,Trivial,4.0,No,4.0,procensus iso 27001 preparing monitoring day 13,1
+95.1 Procensus - ISO 27001,Task,Trivial,4.0,No,4.0,procensus iso 27001 followup,1
+95.1 Procensus - ISO 27001,Task,Trivial,6.0,No,6.0,procensus internal work,1
+95.1 Procensus - ISO 27001,Task,Trivial,4.0,No,4.0,procensus iso 27001 followup preparation,1
+95.1 Procensus - ISO 27001,Task,Trivial,8.0,No,8.0,procensus iso 27001 followup,1
+95.1 Procensus - ISO 27001,Task,Trivial,8.0,No,8.0,procensus monitoring,1
+95.1 Procensus - ISO 27001,Task,Trivial,4.0,No,4.0,dodoc iso 27001 terminar steering,1
+95.1 Procensus - ISO 27001,Task,Trivial,4.0,No,4.0,strongstep processo 27001,1
+95.1 Procensus - ISO 27001,Task,Trivial,4.0,No,4.0,procensus iso 27001 followup,1
+95.1 Procensus - ISO 27001,Task,Trivial,3.0,No,3.0,procensus monitoring,1
+95.1 Procensus - ISO 27001,Task,Trivial,1.0,No,1.0,procensus review action,1
+95.1 Procensus - ISO 27001,Task,Trivial,1.0,No,1.0,procensus scraim mapping,1
+95.1 Procensus - ISO 27001,Task,Trivial,2.0,No,2.0,procensus iso 27001 followup,1
+95.1 Procensus - ISO 27001,Task,Trivial,2.0,No,2.0,procensus mapping in scraim,1
+95.1 Procensus - ISO 27001,Task,Trivial,4.0,No,4.0,procensus iso 27001 reply certifying entity,1
+95.1 Procensus - ISO 27001,Task,Trivial,4.0,No,4.0,procensus iso 27001 update scraim task,1
+95.1 Procensus - ISO 27001,Task,Trivial,4.0,No,4.0,procensus iso 27001 update task scraim,1
+95.1 Procensus - ISO 27001,Task,Trivial,1.0,No,1.0,procensus mapping in scraim,1
+95.1 Procensus - ISO 27001,Task,Trivial,3.0,No,3.0,procensus préteaering,1
+95.1 Procensus - ISO 27001,Task,Trivial,2.0,No,2.0,procensus iso 27001 clarification of punctual doubt,1
+95.1 Procensus - ISO 27001,Task,Trivial,6.0,No,6.0,procensus iso 27001 gap analysis alignment,1
+95.1 Procensus - ISO 27001,Task,Trivial,6.0,No,6.0,procensus iso 27001 alignment gap analysis,1
+95.1 Procensus - ISO 27001,Task,Trivial,16.0,No,16.0,procensus iso 27001 gap analysis,1
+95.1 Procensus - ISO 27001,Task,Trivial,8.0,No,8.0,procensus iso 27001 gap analysis,1
+95.1 Procensus - ISO 27001,Task,Trivial,8.0,No,8.0,procensus gap analysis,1
+95.1 Procensus - ISO 27001,Task,Trivial,8.0,No,8.0,procensus gap analysis,1
+95.1 Procensus - ISO 27001,Task,Trivial,8.0,No,8.0,procensus gap analysis,1
+95.1 Procensus - ISO 27001,Task,Trivial,4.0,No,4.0,procensus gap analysis report,1
+95.1 Procensus - ISO 27001,Task,Trivial,8.0,No,8.0,procensus iso 27001 workshop risk and workshop management change incident request,1
+95.1 Procensus - ISO 27001,Task,Trivial,4.0,No,4.0,procensus iso 27001 report,1
+95.1 Procensus - ISO 27001,Task,Trivial,4.0,No,4.0,procensus iso 27001 include finding in scraim,1
+95.1 Procensus - ISO 27001,Task,Trivial,4.0,No,4.0,procensus workshop risk management,1
+95.1 Procensus - ISO 27001,Task,Trivial,4.0,No,4.0,procensus workshop incident management review,1
+95.1 Procensus - ISO 27001,Task,Trivial,8.0,No,8.0,procensus workshop risk management and incident management,1
+95.1 Procensus - ISO 27001,Task,Trivial,4.0,No,4.0,procensus workshop risk management preparation,1
+95.1 Procensus - ISO 27001,Task,Trivial,8.0,No,8.0,procensus iso 27001 risk workshop and incident,1
+95.1 Procensus - ISO 27001,Task,Trivial,2.0,No,2.0,procensus iso 27001 workshop alignment,1
+95.1 Procensus - ISO 27001,Task,Trivial,2.0,No,2.0,procensus iso 27001 workshop of incident,1
+95.1 Procensus - ISO 27001,Task,Trivial,8.0,No,8.0,procensus workshop 1,1
+95.1 Procensus - ISO 27001,Task,Trivial,5.0,No,5.0,procensus iso 27001 preparation workshop capacity management continuity availability and system,1
+95.1 Procensus - ISO 27001,Task,Trivial,4.0,No,4.0,procensus workshop management capacity continuity availability and system,1
+95.1 Procensus - ISO 27001,Task,Trivial,4.0,No,4.0,procensus iso 27001 preparation workshop capacity management continuity availability and system,1
+95.1 Procensus - ISO 27001,Task,Trivial,8.0,No,8.0,procensus preparation workshop continuity management capacity availability and system,1
+95.1 Procensus - ISO 27001,Task,Trivial,4.0,No,4.0,procensus preparation workshop continuity management capacity availability and system,1
+95.1 Procensus - ISO 27001,Task,Trivial,4.0,No,4.0,procensus iso27001 excel asset,1
+95.1 Procensus - ISO 27001,Task,Trivial,2.0,No,2.0,procensus workshop risco,1
+95.1 Procensus - ISO 27001,Task,Trivial,2.0,No,2.0,procensus iso 27001 rh workshop preparation and marketing,1
+95.1 Procensus - ISO 27001,Task,Trivial,3.0,No,3.0,procensus iso 27001 rh workshop preparation and marketing,1
+95.1 Procensus - ISO 27001,Task,Trivial,1.0,No,1.0,procensus iso 27001 rh workshop preparation and marketing,1
+95.1 Procensus - ISO 27001,Task,Trivial,2.0,No,2.0,procensus followup preparation,1
+95.1 Procensus - ISO 27001,Task,Trivial,4.0,No,4.0,procensus iso 27001 rh and marketing workshop,1
+95.1 Procensus - ISO 27001,Task,Trivial,8.0,No,8.0,procensus accompaniment1,1
+95.1 Procensus - ISO 27001,Task,Trivial,8.0,No,8.0,procensus accompaniment2,1
+95.1 Procensus - ISO 27001,Task,Trivial,1.0,No,1.0,procensus monitoring,1
+95.1 Procensus - ISO 27001,Task,Trivial,4.0,No,4.0,procensus monitoring marketing,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,1.0,No,1.0,nomad tech iso 27001 review document,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,1.0,No,1.0,nomad tech iso 27001 preparation system review,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,No,4.0,nomad tech iso 27001 system review,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,No,2.0,nomad tech iso 27001 sharing session,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,No,2.0,nomad tech iso 27001 preparation sharing session,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,1.0,No,1.0,nomad tech iso 27001 sharing session,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,1.0,No,1.0,nomad tech iso 27001 preparation final evaluation,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,16.0,Yes,16.0,nomad tech iso 27001 internal internal audit,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,6.0,No,6.0,nomad tech iso 27001 preparation report internal internal audit,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,1.0,No,1.0,nomad tech iso 27001 preparation final audit,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,3.0,No,3.0,nomad tech iso 27001 point of situation,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,7.5,No,7.5,nomad tech internal audit tbc,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,7.0,No,7.0,nomad tech internal audit tbc,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,3.0,No,3.0,nomad tech iso 27001 preparation declaration of applicability,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,No,2.0,nomad report,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,No,2.0,nomad tech iso 27001 preliminary presentation of result,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,No,2.0,nomad tech iso 27001 final presentation of result,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,No,2.0,nomad tech iso 27001 preparation plan corrective action,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,1.0,No,1.0,nomad tech iso 27001 preparation report internal internal audit,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,0.5,No,0.5,nomad tech report final evaluation iso27001,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,No,4.0,nomad tech iso 27001 tracking corrective action,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,1.0,No,1.0,nomad tech iso 27001 cv preparation certificate,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,0.5,No,0.5,nomad send cv and certificate internal auditor,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,1.5,No,1.5,nomad tech iso 27001 review corrective action,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,No,4.0,nomad tech iso 27001 tracking corrective action,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,1.5,No,1.5,nomad tech iso 27001 monitoring corrective action audit preview,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,No,2.0,nomad tech iso 27001 review documentation,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,0.5,No,0.5,nomad tech iso 27001 question review,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,Yes,4.0,followup 2,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,Yes,4.0,followup 1,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,Yes,4.0,accompaniment 7,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,Yes,4.0,accompaniment 6,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,Yes,2.0,accompaniment 18,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,Yes,2.0,accompaniment 17,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,Yes,2.0,accompaniment 16,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,Yes,2.0,accompaniment 15,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,Yes,2.0,accompaniment 14,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,Yes,2.0,accompaniment 13,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,Yes,2.0,accompaniment 12,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,Yes,2.0,followup 11,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,3.0,Yes,3.0,accompaniment 10,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,Yes,4.0,accompaniment 9,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,Yes,4.0,accompaniment 8,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,27.0,Yes,27.0,nomad tech 27001 accompaniment,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,Yes,2.0,followup 5,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,No,2.0,gap analysis initial presentation of result,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,No,2.0,gap analysis initial pre presentation result,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,No,4.0,initial gap analysis report,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,16.0,No,16.0,gap analysis inicial,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,Yes,4.0,accompaniment 4,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,Yes,8.0,accompaniment 3,2
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,No,6.0,gap analysis intermediate presentation of result,3
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,No,8.0,gap analysis intermediate report,2
+96.1. Nomad Tech - ISO 27001,Task,Trivial,16.0,No,48.0,gap analysis intermediate,3
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,No,6.0,gap analysis intermediate pre presentation of result,3
+96.1. Nomad Tech - ISO 27001,Task,Trivial,1.0,Yes,1.0,nomad tech iso 27001 review document followup,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,Yes,2.0,nomad tech iso 27001 answer the question,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,0.0,Yes,0.0,nomad tech iso 27001 monitoring capacity continuity and availability,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,0.0,Yes,0.0,nomad tech iso 27001 monitoring continuity availability and capacity,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,0.0,Yes,0.0,nomad tech iso 27001 review document followup,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,3.0,Yes,3.0,nomad tech iso 27001 review declaration applicability,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,Yes,2.0,nomad tech iso 27001 applicability statement,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,Yes,2.0,commercial elaboration proposed nomad tech 50128,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,3.0,Yes,3.0,nomad tech iso 27001 preparation intermediate evaluation and statement of applicability,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,Yes,2.0,nomad tech iso 27001 preparing intermediate audit,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,1.5,Yes,1.5,nomad tech iso 27001 preparation declaration of applicability,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,Yes,2.0,nomad tech iso 27001 review document followup,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,Yes,4.0,nomad tech iso 27001 preparation of the intermediate audit report,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,Yes,4.0,nomad tech iso 27001 intermediate audit,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,8.0,Yes,8.0,nomad tech iso 27001 intermediate audit,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,Yes,4.0,nomad tech iso 27001 preparation report intermediate rating,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,Yes,4.0,nomad tech iso 27001 intermediate rating,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,8.0,Yes,8.0,nomad tech iso 27001 intermediate rating,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,Yes,2.0,nomad tech response training,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,1.0,Yes,1.0,nomad tech iso 27001 alignment intermediate audit,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,3.0,Yes,3.0,nomad tech 27001 intermediate internal audit,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,Yes,4.0,nomad tech 27001 intermediate internal audit,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,8.0,Yes,8.0,nomad tech 27001 intermediate internal audit,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,Yes,2.0,nomad tech iso 27001 set corrective action,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,1.0,Yes,1.0,nomad tech iso 27001 set corrective action,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,Yes,2.0,nomad tech iso 27001 set corrective action,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,1.0,Yes,1.0,nomad slide formation,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,3.0,Yes,3.0,nomad tech iso 27001 review report intermediate audit,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,6.0,Yes,6.0,nomad tech presentation report,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,1.0,Yes,1.0,nomad tech iso 27001 preparation report intermediate rating,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,Yes,4.0,nomad tech iso 27001 preparar documento sharing session,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,Yes,4.0,nomad tech iso 27001 preparation training iso 27001,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,Yes,4.0,nomad tech iso 27001 iso 27001,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,Yes,2.0,nomad tech iso 27001 review iso 27001,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,Yes,2.0,nomad tech iso 27001 define corrective action in scraim,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,Yes,4.0,nomad tech iso 27001 iso 27001,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,8.0,Yes,8.0,nomad tech iso 27001 preparation training iso 27001,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,1.0,Yes,1.0,nomad tech iso 27001 preparation training iso 27001,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,3.0,Yes,3.0,nomad tech iso 27001 iso 27001,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,1.0,Yes,1.0,nomad tech iso 27001 preparation training iso 27001,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,Yes,2.0,rever formação nomad tech iso27001,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,8.0,Yes,8.0,nomad tech iso 27001 preparation training iso 27001,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,Yes,4.0,prepare nomad tech training iso27001 sharing session slide workshop,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,Yes,4.0,nomad tech training iso27001 sharing session,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,Yes,4.0,nomad tech iso 27001 preparation training iso 27001,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,1.0,Yes,1.0,nomad tech iso 27001 preparation monitoring,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,0.0,Yes,0.0,nomad tech iso 27001 iso 27001,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,0.0,Yes,0.0,nomad tech iso 27001 iso 27001,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,1.0,Yes,1.0,training nomad tech control exercise,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,3.0,Yes,3.0,nomad tech iso 27001 rever document,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,0.0,Yes,0.0,nomad tech iso 27001 iso 27001,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,Yes,2.0,rever training nomad my iso27001 control,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,1.0,Yes,1.0,nomad tech iso 27001 preparation monitoring,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,0.0,Yes,0.0,nomad tech iso 27001 iso 27001,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,Yes,2.0,nomad tech iso 27001 preparation monitoring,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,3.0,Yes,3.0,nomad tech iso 27001 preparation monitoring,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,Yes,4.0,nomad tech iso 27001 steering,2
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,Yes,2.0,nomad tech iso 27001 review document,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,Yes,4.0,nomad tech iso 27001 presteering,2
+96.1. Nomad Tech - ISO 27001,Task,Trivial,3.0,Yes,3.0,nomad tech iso 27001 steel preparation,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,3.0,No,3.0,nomad tech kickoff,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,No,2.0,nomad tech gap alignment analysis,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,No,2.0,nomad tech preparar gap analysis,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,No,2.0,nomad tech kickoff,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,No,4.0,nomad tech colocar finding gap analysis scraim,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,No,4.0,nomad tech workshop rh marketing,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,No,4.0,nomad tech preparation and alignment of workshop,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,0.0,No,0.0,nomad review document deployment plan,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,1.0,No,1.0,nomad tech review plan of implementation,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,No,4.0,nomad tech position,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,No,4.0,nomad tech workshop incident management hr and marketing,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,No,4.0,nomad tech risk management,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,No,4.0,nomad tech rh marketing incident management and order,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,No,4.0,nomad tech workshop system management,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,No,4.0,nomad tech workshop shopping and legal,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,No,4.0,nomad tech workshop continuity availability capacity,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,No,2.0,nomad tech rever workshop,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,No,4.0,nomad tech prepare tracking workshop,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,3.0,No,3.0,nomad tech workshop physical and logical control,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,No,2.0,nomad tech workshop physical and logical control,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,No,4.0,nomad tech workshop system management,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,No,4.0,nomad tech workshop shopping and legal,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,No,4.0,nomad tech workshop continuity availability capacity,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,No,2.0,nomad tech rever workshop,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,No,4.0,nomad tech prepare tracking workshop,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,3.0,No,3.0,nomad tech workshop physical and logical control,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,No,2.0,nomad tech workshop physical and logical control,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,No,4.0,nomad tech workshop shopping and legal,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,No,4.0,nomad tech workshop system management,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,0.0,No,0.0,nomad tech workshop risk management,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,0.0,No,0.0,nomad tech workshop incident management,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,No,2.0,nomad tech workshop physical and logical control,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,No,2.0,nomad tech workshop physical and logical control,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,No,4.0,nomad tech workshop shopping and legal,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,No,4.0,nomad tech iso 27001 workshop sistema sgsi,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,No,2.0,nomad tech workshop physical and logical control,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,No,4.0,nomad tech workshop physical and logical control,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,No,4.0,nomad tech workshop continuity availability capacity,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,0.0,No,0.0,nomad tech management capacity continuity and availability,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,No,4.0,nomad tech iso 27001 capacity management continuity and availability,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,No,2.0,nomad tech ida guifões,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,No,4.0,nomad tech workshop preparation capacity management continuity and availability,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,No,4.0,nomad tech 27001 shrinkers,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,No,4.0,nomad tech workshop risk management,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,0.0,No,0.0,nomad tech workshop incident management,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,No,4.0,nomad tech workshop risk management,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,6.0,No,6.0,nomad tech workshop physical and logical control,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,0.0,No,0.0,nomad tech workshop incident management,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,6.0,No,6.0,nomad tech 27001 workshop logical and physical control part 1,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,0.0,No,0.0,nomad tech 27001 workshop order management and incident,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,No,4.0,nomad tech workshop physical and logical control part 2,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,No,4.0,nomad tech iso 27001 workshop physical and logical drop,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,No,4.0,nomad tech workshop,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,No,4.0,nomad tech iso 27001 workshop order management and incident,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,2.0,No,2.0,nomad tech iso 27001 scraim mapping,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,No,4.0,nomad tech iso 27001 see support material,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,No,4.0,nomad tech iso 27001 see support material,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,No,4.0,nomad tech iso 27001 see iso 27001,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,No,4.0,nomad tech review document followup,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,1.0,No,1.0,nomad tech review document followup,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,No,4.0,nomad tech review document followup,1
+96.1. Nomad Tech - ISO 27001,Task,Trivial,4.0,No,4.0,nomad iso27001 review client document,1
+98.1 Projeto FARE - RGPD,Task,Trivial,1.0,No,1.0,workshop plan,1
+98.1 Projeto FARE - RGPD,Task,Trivial,2.0,No,2.0,kickoff meeting,1
+98.1 Projeto FARE - RGPD,Task,Trivial,2.0,No,2.0,kick off presentation,1
+98.1 Projeto FARE - RGPD,Task,Trivial,1.0,No,1.0,project configuration,1
+99.1 doDOC - ISO 27001,Task,Trivial,2.0,No,2.0,dodoc iso 27001 preparation gap analysis initial,1
+99.1 doDOC - ISO 27001,Task,Trivial,8.0,No,8.0,dodoc iso 27001 gap analysis inicial,1
+99.1 doDOC - ISO 27001,Task,Trivial,2.0,No,2.0,dodoc iso 27001 gap analysis inicial,1
+99.1 doDOC - ISO 27001,Task,Trivial,4.0,No,4.0,dodoc prepare questionnaire gap analysis,1
+99.1 doDOC - ISO 27001,Task,Trivial,8.0,No,8.0,dodoc gap analysis,1
+99.1 doDOC - ISO 27001,Task,Trivial,4.0,No,4.0,dodoc gap analysis,1
+99.1 doDOC - ISO 27001,Task,Trivial,4.0,No,4.0,dodoc iso 27001 gap analysis,1
+99.1 doDOC - ISO 27001,Task,Trivial,8.0,No,8.0,dodoc gap analysis,1
+99.1 doDOC - ISO 27001,Task,Trivial,2.0,No,2.0,dodoc gap analysis,1
+99.1 doDOC - ISO 27001,Task,Trivial,2.0,No,2.0,dodoc iso 27001 elaboration gap analysis report,1
+99.1 doDOC - ISO 27001,Task,Trivial,4.0,No,4.0,dodoc 27001 gap analysis report,1
+99.1 doDOC - ISO 27001,Task,Trivial,4.0,No,4.0,dodoc 27001 gap analysis report,1
+99.1 doDOC - ISO 27001,Task,Trivial,4.0,No,4.0,procensus 27001 preparation of followup 4 and internal accompaniment 3,1
+99.1 doDOC - ISO 27001,Task,Trivial,4.0,No,4.0,dodoc 27001 verification of priority process,1
+99.1 doDOC - ISO 27001,Task,Trivial,4.0,No,4.0,sodoc preliminary presentation of gap analysis report,1
+99.1 doDOC - ISO 27001,Task,Trivial,5.0,No,5.0,dodoc iso 27001 presentation of the gap analysis report,1
+99.1 doDOC - ISO 27001,Task,Trivial,8.0,No,8.0,dodoc workshop physical and logical control,1
+99.1 doDOC - ISO 27001,Task,Trivial,4.0,No,4.0,dodoc iso 27001 gap analysis report presentation,1
+99.1 doDOC - ISO 27001,Task,Trivial,8.0,No,8.0,dodoc iso 27001 workshop physical and lockshelongs,1
+99.1 doDOC - ISO 27001,Task,Trivial,4.0,No,4.0,dodoc iso 27001 preparing monitoring and workshop physical and logical control,1
+99.1 doDOC - ISO 27001,Task,Trivial,7.0,No,7.0,dodoc iso 27001 workshop of physical and logical character,1
+99.1 doDOC - ISO 27001,Task,Trivial,4.0,No,4.0,dodoc iso 27001 workshop physical and lockshelongs,1
+99.1 doDOC - ISO 27001,Task,Trivial,4.0,No,4.0,dodoc iso 27001 workshop risk management,1
+99.1 doDOC - ISO 27001,Task,Trivial,1.0,No,1.0,dodoc iso 27001 scraim share,1
+99.1 doDOC - ISO 27001,Task,Trivial,4.0,No,4.0,dodoc report gap analysis revisionadaptation,1
+99.1 doDOC - ISO 27001,Task,Trivial,4.0,No,4.0,dodoc iso 27001 preparation workshop physical and logical control part 2,1
+99.1 doDOC - ISO 27001,Task,Trivial,7.0,No,7.0,dodoc iso 27001 workshop,1
+99.1 doDOC - ISO 27001,Task,Trivial,3.0,No,3.0,dodoc workshop order and incident,1
+99.1 doDOC - ISO 27001,Task,Trivial,2.0,No,2.0,dodoc iso 27001 workshop rh,1
+99.1 doDOC - ISO 27001,Task,Trivial,1.0,No,1.0,dodoc iso 27001 workshop marketing,1
+99.1 doDOC - ISO 27001,Task,Trivial,2.0,No,2.0,dodoc iso 27001 rever workshop,1
+99.1 doDOC - ISO 27001,Task,Trivial,4.0,No,4.0,dodoc iso 27001 workshop shopping and legal,1
+99.1 doDOC - ISO 27001,Task,Trivial,4.0,No,4.0,dodoc iso 27001 elaboration of the software policy allowed clock synchronization software installation on system,1
+99.1 doDOC - ISO 27001,Task,Trivial,4.0,No,4.0,dodoc iso 27001 preparar workshop rh,1
+99.1 doDOC - ISO 27001,Task,Trivial,4.0,No,4.0,dodoc iso 27001 workshop human resource and marketing,1
+99.1 doDOC - ISO 27001,Task,Trivial,4.0,No,4.0,dodoc iso 27001 prepare follow shopping and legal,1
+99.1 doDOC - ISO 27001,Task,Trivial,4.0,No,4.0,dodoc iso 27001 workshop shopping and legal,1
+99.1 doDOC - ISO 27001,Task,Trivial,4.0,No,4.0,dodoc iso 27001 workshop continuity capacity and availability,1
+99.1 doDOC - ISO 27001,Task,Trivial,4.0,No,4.0,dodoc iso 27001 workshop system management,1
+99.1 doDOC - ISO 27001,Task,Trivial,4.0,No,4.0,dodoc iso 27001 workshop physical and lock control part 2,1
+99.1 doDOC - ISO 27001,Task,Trivial,4.0,No,4.0,dodoc iso 27001 workshop information system management,1
+99.1 doDOC - ISO 27001,Task,Trivial,4.0,No,4.0,dodoc iso 27001 analysis of priority document,1
+99.1 doDOC - ISO 27001,Task,Trivial,4.0,No,4.0,dodoc iso 27001 steering,1
+99.1 doDOC - ISO 27001,Task,Trivial,2.0,No,2.0,c cant 27001,1
+99.1 doDOC - ISO 27001,Task,Trivial,4.0,No,4.0,dodoc iso 27001 gp priority document review scraim update,1
+99.1 doDOC - ISO 27001,Task,Trivial,4.0,No,4.0,dodoc iso 27001 document scraim,1
+99.1 doDOC - ISO 27001,Task,Trivial,2.0,No,2.0,dodoc iso 27001 monitoring,1
+99.1 doDOC - ISO 27001,Task,Trivial,4.0,No,4.0,dodoc iso27001 tool demo,1
+99.1 doDOC - ISO 27001,Task,Trivial,2.0,No,2.0,dodoc iso 27001 review action,1
+99.1 doDOC - ISO 27001,Task,Trivial,4.0,No,4.0,dodoc iso 27001 preparation monitoring,1
+99.1 doDOC - ISO 27001,Task,Trivial,4.0,No,4.0,dodoc iso 27001 monitoring,1
+99.1 doDOC - ISO 27001,Task,Trivial,1.0,No,1.0,c cant 27001,1
+99.1 doDOC - ISO 27001,Task,Trivial,2.0,No,2.0,dodoc iso 27001 doc followup preparation available,1
+99.1 doDOC - ISO 27001,Task,Trivial,2.0,No,2.0,c cant 27001,1
+99.1 doDOC - ISO 27001,Task,Trivial,2.0,No,2.0,dodoc iso 27001 review action,1
