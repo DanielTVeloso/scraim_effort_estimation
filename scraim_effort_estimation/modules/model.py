@@ -235,13 +235,13 @@ if __name__ == '__main__' :
     #train_model(df, target='Estimated time', model = 'all', save_path='../storage/models')
     #train_model(df, target='Effort', model = 'all', save_path='../storage/models')
     request_data = {
-               "N of Part" : [1],
-               "Project": ["My Test Project"],
-               "Subject": ["monitoring meeting 1"],
-               "Private": ["Yes"],
-               "Tracker" : ["Task"],
-               "Priority" : ["Trivial"],
-               "Target" : "Estimated time",
+               "N of Part" : [2, 2],
+               "Project": ["My Test Project", "My Test Project"],
+               "Subject": ["initial training", "initial evaluation"],
+               "Private": ["Yes", "Yes"],
+               "Tracker" : ["Task", "Task"],
+               "Priority" : ["Trivial", "Trivial"],
+               "Target" : "Effort",
                "Model" : "random_forest"
      }
     results = predict_from_model(request_data)
