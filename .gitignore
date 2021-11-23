@@ -6,6 +6,7 @@
 
 #env
 venv/*
+launch_venv.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

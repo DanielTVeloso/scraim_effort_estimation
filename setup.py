@@ -20,7 +20,7 @@ setuptools.setup(
     packages = setuptools.find_packages(),
     install_requires = [
         "category_encoders==2.3.0",
-        "Flask==1.1.1",
+        "Flask==1.1.2",
         "Flask_Cors==3.0.10",
         "googletrans==4.0.0rc1",
         "joblib==0.14.1",
