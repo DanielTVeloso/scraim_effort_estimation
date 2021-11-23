@@ -161,7 +161,7 @@ def predict_from_model(request_data, load_path=''):
         }, 400
     #load effort encoder / load standard sccaler and model
     if load_path == '':
-        load_path = '../storage/models'
+        load_path = './storage/models'
     ohe = joblib.load(load_path+'/one_hot_encoder.joblib')
     vectoriser = joblib.load(load_path+'/vectoriser.joblib')
     #using the storage one hot encoder
