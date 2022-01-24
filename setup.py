@@ -29,7 +29,7 @@ setuptools.setup(
         "numpy==1.19.4",
         "pandas==1.1.4",
         "PasteScript==3.2.1",
-        "scikit_learn==0.24.1",
+        "scikit_learn==1.0.1",
         "seaborn==0.10.0",
         "setuptools==41.2.0",
         "tabulate==0.8.7",
