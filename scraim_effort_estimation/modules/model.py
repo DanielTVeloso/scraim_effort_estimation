@@ -6,6 +6,7 @@ import nltk
 import string
 from nltk.corpus import stopwords
 from sklearn.metrics import r2_score
+from sklearn import metrics
 from sklearn.preprocessing import StandardScaler
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.model_selection import train_test_split
@@ -55,8 +56,9 @@ def cross_val_scores(df, target = 'Effort', save_path='', load_path='', verbose=
     #selecionados os parâmetros tunados, fazer o treino nos 75% restantes usando cv de 5
     n_splits = 5
     kf = KFold(n_splits=n_splits, shuffle=True, random_state=101)
-    scoring=('r2', 'neg_root_mean_squared_error', 'neg_mean_absolute_error')
+    scoring=('r2', 'neg_mean_absolute_error', 'neg_root_mean_squared_error', 'neg_mean_absolute_percentage_error')
     results = []
+    print(sorted(metrics.SCORERS))
     for model_name, mp in models_tunned.items():
         if (model_name == 'lasso') or (model_name == 'svr') or (model_name == 'knn'): 
             #lasso, svr and knn need to use scaled data
@@ -69,7 +71,6 @@ def cross_val_scores(df, target = 'Effort', save_path='', load_path='', verbose=
                 print('mae =', cv_results['test_neg_mean_absolute_error'].mean())
                 print('rmse =', cv_results['test_neg_root_mean_squared_error'].mean())
                 print('')
-            results.append([model_name, cv_results['test_r2'].mean()])
         else:
             cv_results = cross_validate(mp['model'], X_test, y_test, cv=kf, scoring=scoring, return_train_score=False)
             if verbose:
@@ -80,8 +81,14 @@ def cross_val_scores(df, target = 'Effort', save_path='', load_path='', verbose=
                 print('mae =', cv_results['test_neg_mean_absolute_error'].mean())
                 print('rmse =', cv_results['test_neg_root_mean_squared_error'].mean())
                 print('')
-            results.append([model_name, cv_results['test_r2'].mean()])
-    headers = ['Method', 'r2_scores', 'rmse%']
+        results.append([
+            model_name, 
+            cv_results['test_r2'].mean(), 
+            abs(cv_results['test_neg_mean_absolute_error'].mean()), 
+            abs(cv_results['test_neg_root_mean_squared_error'].mean()),
+            abs(cv_results['neg_mean_absolute_percentage_error'].mean())
+            ])
+    headers = ['id', 'method', 'r2', 'mae', 'rmse', 'mape']
     table = [headers, results[0], results[1], results[2], results[3], results[4], results[5], results[6], results[7]]
     if verbose:
         print('')
@@ -230,19 +237,19 @@ def predict_from_model(request_data, load_path=''):
     return results, 200
 
 if __name__ == '__main__' :
-    #df = utils.read_from_storage('../storage/df_tf_idf.csv')
-    #cross_val_scores(df, save_path='../results/cross_val_scores_effort.txt')
+    df = utils.read_from_storage('../storage/df_tf_idf.csv')
+    #cross_val_scores(df, save_path='../results/cross_val_scores_effort_update.txt', verbose=True)
     #train_model(df, target='Estimated time', model = 'all', save_path='../storage/models')
     #train_model(df, target='Effort', model = 'all', save_path='../storage/models')
-    request_data = {
-               "N of Part" : [2, 2],
-               "Project": ["My Test Project", "My Test Project"],
-               "Subject": ["initial training", "initial evaluation"],
-               "Private": ["Yes", "Yes"],
-               "Tracker" : ["Task", "Task"],
-               "Priority" : ["Trivial", "Trivial"],
-               "Target" : "Effort",
-               "Model" : "random_forest"
-     }
-    results = predict_from_model(request_data)
-    print(results)
+    #request_data = {
+    #           "N of Part" : [2, 2],
+    #           "Project": ["My Test Project", "My Test Project"],
+    #           "Subject": ["initial training", "initial evaluation"],
+    #           "Private": ["Yes", "Yes"],
+    #           "Tracker" : ["Task", "Task"],
+    #           "Priority" : ["Trivial", "Trivial"],
+    #           "Target" : "Estimated time",
+    #           "Model" : "random_forest"
+    #}
+    #results = predict_from_model(request_data)
+    #print(results)

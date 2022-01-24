@@ -1,4 +1,5 @@
 import glob
+from xml.etree.ElementTree import ElementTree
 import pandas as pd
 import string
 import nltk
@@ -95,9 +96,9 @@ def data_pre_processing(df, save_path=''):
         #Effort = number of hours * number of participants
         df['Effort'] = df['Estimated time'] * df['N of Part']
         #drop all clomuns not capable of being features
-        df = df.drop(['Updated','Created', '% Done', 'Author', 'Target version', 'Centro de custo', 
+        df.drop(['Updated','Created', '% Done', 'Author', 'Target version', 'Centro de custo', 
             'Status', 'Total estimated time', 'Total spent time', 'Iteration', 'Assignee', 'Last updated by',
-            'Spent time', 'Start date', 'Due date', '#', 'Participants'],axis='columns')
+            'Spent time', 'Start date', 'Due date', '#', 'Participants', 'Closed', 'id', 'Subject'],axis='columns', inplace=True)
         #need to reset index
     #Need to remove estimated = 0
     df = df.loc[df['Estimated time'] != 0]
@@ -144,8 +145,16 @@ def data_pre_processing(df, save_path=''):
         else: #(element == 'Yes'):
             element = 'Private'
         return element
+    def priority_dummy(element):
+        #convert minor or major into trivial or critical
+        if (element == 'Minor'):
+            element = 'Trivial'
+        elif (element == 'Major'): 
+            element = 'Critical'
+        return element
     #using and saving, if specified one hot econder model
     df['Private'] = df['Private'].apply(private_dummy)
+    df['Priority'] = df['Priority'].apply(priority_dummy)
     df_enc = df.drop(['Project', 'Estimated time', 'Effort', 'N of Part', 'Subject_clean'], axis = 'columns') 
     cols_encoding = df_enc.select_dtypes(include='object').columns
     ohe = OneHotEncoder(cols=cols_encoding)
@@ -218,7 +227,7 @@ def text_processing(df, method='TF-IDF', save_path=''):
             joblib.dump(vectoriser, save_path+'/vectoriser.joblib') 
             joblib.dump(ss_effort, save_path+'/effort_standard_scaler.joblib')
             joblib.dump(ss_est_time, save_path+'/est_time_standard_scaler.joblib')
-            df.to_csv(save_path+'df_tf_idf.csv', encoding='utf-8', index = False)
+            df.to_csv('../storage/df_tf_idf.csv', encoding='utf-8', index = False)
     return df
 
 def read_from_storage(path):
@@ -231,7 +240,7 @@ def read_from_storage(path):
     Returns:
     df: pandas dataframe
     """
-    df = pd.read_csv(path, encoding = "utf-8")
+    df = pd.read_csv(path, index_col=None, header=0, encoding = "ISO-8859-1")
     return df
 
 def model_tunned(target='Effort'):
@@ -351,6 +360,6 @@ def check_request_data(data):
     return has_error, messages
 
 if __name__ == '__main__' :
-    df = read_from_storage(path = '../storage/df_translated_no_prepross.csv')
+    df = read_from_storage(path = '../storage/all_translated_2.csv')
     df = data_pre_processing(df, save_path='../storage/models')
     df = text_processing(df, save_path='../storage/models')
