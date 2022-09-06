@@ -31,10 +31,11 @@ setuptools.setup(
         "PasteScript==3.2.1",
         "scikit_learn==1.0.1",
         "seaborn==0.10.0",
-        "setuptools==41.2.0",
+        "setuptools==56.0.0",
         "tabulate==0.8.7",
         "waitress==1.4.4",
         "xgboost==1.4.2",
+        "itsdangerous==2.0.1"
     ],
     python_requires = ">=3.6"
 )

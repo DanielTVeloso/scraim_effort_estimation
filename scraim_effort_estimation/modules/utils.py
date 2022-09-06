@@ -13,6 +13,7 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.ensemble import GradientBoostingRegressor
 from xgboost import XGBRegressor
 from sklearn.neural_network import MLPRegressor
+from sklearn.tree import DecisionTreeRegressor
 from sklearn.preprocessing import StandardScaler
 from category_encoders.one_hot import OneHotEncoder
 import joblib
@@ -31,7 +32,7 @@ def combine_all_csv_files(path):
     all_files = glob.glob(path + "/*.csv")
     li = []
     for filename in all_files:
-        df = pd.read_csv(filename, index_col=None, header=0, encoding = "ISO-8859-1")
+        df = pd.read_csv(filename, index_col=None, header=0, encoding = "utf-8")
         li.append(df)
     #concatenate all files into one dataframe
     df = pd.concat(li, axis=0, ignore_index=True)
@@ -96,9 +97,9 @@ def data_pre_processing(df, save_path=''):
         #Effort = number of hours * number of participants
         df['Effort'] = df['Estimated time'] * df['N of Part']
         #drop all clomuns not capable of being features
-        df.drop(['Updated','Created', '% Done', 'Author', 'Target version', 'Centro de custo', 
+        df.drop(['Updated','Created', 'Start Date', 'Due Date', 'Closed', 'Author', 'Target version', 'Centro de custo', 
             'Status', 'Total estimated time', 'Total spent time', 'Iteration', 'Assignee', 'Last updated by',
-            'Spent time', 'Start date', 'Due date', '#', 'Participants', 'Closed', 'id', 'Subject'],axis='columns', inplace=True)
+            'Spent time', '#', 'Subject', 'Participants', 'Done Ratio', 'Private', 'Priority', 'Parent task'],axis='columns', inplace=True)
         #need to reset index
     #Need to remove estimated = 0
     df = df.loc[df['Estimated time'] != 0]
@@ -125,43 +126,57 @@ def data_pre_processing(df, save_path=''):
         else:
             descripitons_wo_proj_name[element] = [element]
     df['Subject_clean'].replace(descripitons_wo_proj_name, inplace=True)    
+    #extract from project name RGPD, CMMI, ISO270001
+    type_of_project = []
+    for i in range(len(df['Project'])):
+        if 'rgpd' in df['Project'][i].lower(): 
+            type_of_project.append('RGPD')
+        elif 'cmmi' in df['Project'][i].lower():
+            type_of_project.append('CMMI')
+        elif '27001' in df['Project'][i].lower():
+            type_of_project.append('ISO 27001')
+        else:
+            type_of_project.append('Others')
+    df['Type of Project'] = type_of_project
     #drop outdated/outliers projects
-    projects_to_remove = ['106.2 Effizency - RGPD', 
-                        '40.5 Innowave - RGPD', 
-                        '40.6 InnoWave - CMMI Development 3 Renovação', 
-                        '85.1 Ebankit - ISO 27001', 
-                        '87.1 Frotcom ITMark',
-                        '91.1 Médicos no Mundo - RGPD',
-                        '99.1 doDOC - ISO 27001'
-                    ]
-    df = df.loc[~df['Project'].isin(projects_to_remove)]
+    #projects_to_remove = ['106.2 Effizency - RGPD', 
+    #                    '40.5 Innowave - RGPD', 
+    #                    '40.6 InnoWave - CMMI Development 3 Renovação', 
+    #                    '85.1 Ebankit - ISO 27001', 
+    #                    '87.1 Frotcom ITMark',
+    #                    '91.1 Médicos no Mundo - RGPD',
+    #                    '99.1 doDOC - ISO 27001'
+    #                ]
+    #df = df.loc[~df['Project'].isin(projects_to_remove)]
     # need to reset index after removing rows
     df.reset_index(drop=True, inplace=True)
     #need to transform categorical features into numerical ones ----> get dummies
-    def private_dummy(element):
-        #convert yes or no into private or not private
-        if (element == 'No'):
-            element = 'Not Private'
-        else: #(element == 'Yes'):
-            element = 'Private'
+    def tracker_dummy(element):
+        if (element.lower() == 'task'):
+            element = 'tracker_task'
+        else:
+            element = 'tracker_meeting'
         return element
-    def priority_dummy(element):
-        #convert minor or major into trivial or critical
-        if (element == 'Minor'):
-            element = 'Trivial'
-        elif (element == 'Major'): 
-            element = 'Critical'
+    def type_project_dummy(element):
+        if 'rgpd' in element.lower():
+            element = 'type_project_rgpd'
+        elif 'cmmi' in element.lower():
+             element = 'type_project_cmmi'
+        elif '27001' in element.lower():
+             element = 'type_project_iso27001'
+        else:
+            element = 'type_project_other'
         return element
     #using and saving, if specified one hot econder model
-    df['Private'] = df['Private'].apply(private_dummy)
-    df['Priority'] = df['Priority'].apply(priority_dummy)
+    df['Tracker'] = df['Tracker'].apply(tracker_dummy)
+    df['Type of Project'] = df['Type of Project'].apply(type_project_dummy)
     df_enc = df.drop(['Project', 'Estimated time', 'Effort', 'N of Part', 'Subject_clean'], axis = 'columns') 
     cols_encoding = df_enc.select_dtypes(include='object').columns
     ohe = OneHotEncoder(cols=cols_encoding)
     encoded = ohe.fit_transform(df_enc) 
     if save_path != '':
             joblib.dump(ohe, save_path+'/one_hot_encoder.joblib') 
-    df = pd.concat([df.drop(['Private', 'Tracker', 'Priority'], axis = 'columns'), encoded], axis = 1)
+    df = pd.concat([df.drop(['Tracker', 'Type of Project'], axis = 'columns'), encoded], axis = 1)
     df.head()
 
     return df
@@ -216,17 +231,13 @@ def text_processing(df, method='TF-IDF', save_path=''):
         x = vectoriser.fit_transform(df['Subject_clean'])
         df1 = pd.DataFrame(x.toarray(), columns=vectoriser.get_feature_names())
         df = pd.concat([df, df1], axis='columns')
-        ss_effort = StandardScaler() #effort use N of Part
-        ss_est_time = StandardScaler() #est_time does not use N of Part
-        df_effort_scaled = df.drop(['Subject_clean','Project', 'Estimated time', 'Effort'], axis= 'columns')
-        df_est_time_scaled = df.drop(['Subject_clean','Project', 'N of Part', 'Effort', 'Estimated time'], axis= 'columns')
-        df_effort_scaled = pd.DataFrame(ss_effort.fit_transform(df_effort_scaled), columns = df_effort_scaled.columns)
-        df_est_time_scaled = pd.DataFrame(ss_est_time.fit_transform(df_est_time_scaled), columns = df_est_time_scaled.columns)
+        ss = StandardScaler() #effort use N of Part
+        df_scaled = df.drop(['Subject_clean','Project', 'Estimated time', 'Effort', 'N of Part'], axis= 'columns')
+        df_scaled = pd.DataFrame(ss.fit_transform(df_scaled), columns = df_scaled.columns)
         #If specified, save tf-idf vectoriser and also Standard Scaler
         if save_path != '':
             joblib.dump(vectoriser, save_path+'/vectoriser.joblib') 
-            joblib.dump(ss_effort, save_path+'/effort_standard_scaler.joblib')
-            joblib.dump(ss_est_time, save_path+'/est_time_standard_scaler.joblib')
+            joblib.dump(ss, save_path+'/standard_scaler.joblib')
             df.to_csv('../storage/df_tf_idf.csv', encoding='utf-8', index = False)
     return df
 
@@ -240,7 +251,7 @@ def read_from_storage(path):
     Returns:
     df: pandas dataframe
     """
-    df = pd.read_csv(path, index_col=None, header=0, encoding = "ISO-8859-1")
+    df = pd.read_csv(path, index_col=None, header=0, encoding = "utf-8")
     return df
 
 def model_tunned(target='Effort'):
@@ -293,6 +304,9 @@ def model_tunned(target='Effort'):
                 'model': MLPRegressor(activation = 'relu', 
                                     hidden_layer_sizes =[50, 150, 100],
                                     alpha = 0.1) 
+            },
+            'decision_tree_regressor': {
+                'model': DecisionTreeRegressor(random_state=0) 
             }
         }
     else: #target = 'Estimated time'
@@ -334,6 +348,9 @@ def model_tunned(target='Effort'):
                 'model': MLPRegressor(activation = 'logistic', 
                                     hidden_layer_sizes =[50, 150, 100],
                                     alpha = 0.0001) 
+            },
+            'decision_tree_regressor': {
+                'model': DecisionTreeRegressor(random_state=0) 
             }
         }
     return models_tunned
@@ -360,6 +377,6 @@ def check_request_data(data):
     return has_error, messages
 
 if __name__ == '__main__' :
-    df = read_from_storage(path = '../storage/all_translated_2.csv')
+    df = read_from_storage(path = '../storage/df_translated_copies_top_4.csv')
     df = data_pre_processing(df, save_path='../storage/models')
     df = text_processing(df, save_path='../storage/models')
