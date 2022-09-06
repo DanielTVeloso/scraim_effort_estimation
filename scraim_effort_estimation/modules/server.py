@@ -16,9 +16,9 @@ def docs():
 
 @app.route('/new-task', methods=['POST'])
 def new_task():
-    pred_results, status_code = model.predict_from_model(request.json, load_path='storage/models')
+    pred_results = model.predict_from_model(request.json, load_path='storage/models')
 
-    return jsonify(pred_results), status_code
+    return jsonify(pred_results)
 
 def run_server():
     global app
